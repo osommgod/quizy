@@ -1,0 +1,11 @@
+# 🔐 Prevent direct access to config.php
+<FilesMatch "config\.php">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# 🔁 Enable URL Rewriting (for clean routes)
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)$ index.php?route=$1 [QSA,L]

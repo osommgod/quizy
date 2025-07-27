@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "ICC",
+  "topic": "Tournaments",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The ICC Cricket World Cup is held every 5 years.",
+      "correct_answer": false
+    },
+    {
+      "id": 2,
+      "question": "The ICC T20 World Cup was first held in 2007.",
+      "correct_answer": true
+    },
+    {
+      "id": 3,
+      "question": "The ICC World Test Championship features a points system where all Test matches count equally.",
+      "correct_answer": false
+    },
+    {
+      "id": 4,
+      "question": "The ICC Champions Trophy was discontinued after the 2017 edition.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "question": "Australia has won the most ICC ODI World Cups (5 titles as of 2023).",
+      "correct_answer": false
+    },
+    {
+      "id": 6,
+      "question": "The ICC Women's T20 World Cup has been held more frequently than the Men's T20 World Cup.",
+      "correct_answer": true
+    },
+    {
+      "id": 7,
+      "question": "The first ICC World Test Championship final was played between India and New Zealand in 2021.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "The ICC Under-19 World Cup is held biennially (every 2 years).",
+      "correct_answer": true
+    },
+    {
+      "id": 9,
+      "question": "Sri Lanka is the only host nation to win the ICC Cricket World Cup (1996).",
+      "correct_answer": true
+    },
+    {
+      "id": 10,
+      "question": "The ICC World Cup Super League determined qualification for the 2023 World Cup.",
+      "correct_answer": true
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Rules",
+  "topic": "Fielding",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A maximum of 2 fielders are allowed behind square on the leg side.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In ODI cricket, only 5 fielders are allowed outside the 30-yard circle during non-powerplay overs.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A fielder can catch the ball after it crosses the boundary rope if they jump from inside the field.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The wicket-keeper must remain behind the stumps until the ball is bowled.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "A fielder can run out a batsman if the ball deflects off their body onto the stumps.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "In T20 cricket, only 5 fielders are allowed outside the circle after the powerplay.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "A substitute fielder can take catches but cannot bowl or bat.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Close fielders are required to wear helmets when fielding within 15 yards of the bat.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "A fielder can be positioned anywhere on the field except directly behind the batsman on strike.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The captain can change field positions between each ball of an over.",
+      "answer": true
+    }
+  ]
+}

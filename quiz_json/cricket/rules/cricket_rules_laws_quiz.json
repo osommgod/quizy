@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Rules",
+  "topic": "Laws",
+  "questions": [
+    {
+      "id": 1,
+      "question": "There are 42 Laws of Cricket as defined by the MCC.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "A cricket ball must weigh between 155.9 and 163 grams.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The cricket pitch is exactly 22 yards long.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A batsman can be given out 'Handled the Ball' under the current laws.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "The stumps must be 28 inches high.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "A wide ball cannot result in a wicket being taken.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "The boundary must be at least 65 yards from the center of the pitch.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "A no-ball results in one run being added to the batting team's total.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The Laws of Cricket are updated every 10 years.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "A batsman can be run out while the ball is 'dead'.",
+      "answer": false
+    }
+  ]
+}

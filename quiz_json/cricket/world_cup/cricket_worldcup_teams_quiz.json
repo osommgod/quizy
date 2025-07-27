@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "World Cup",
+  "topic": "Teams",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Australia has won the Cricket World Cup 5 times.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Only 8 different teams have ever won the Cricket World Cup.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Bangladesh has never reached a World Cup semi-final.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Zimbabwe has participated in every World Cup since 1983.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Kenya reached the semi-finals of the 2003 World Cup.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Netherlands has never won a match in World Cup cricket.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "South Africa has never won the Cricket World Cup.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Afghanistan made their World Cup debut in 2015.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "All founding members of the ICC have won the World Cup at least once.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Ireland has qualified for more than 3 World Cups.",
+      "answer": true
+    }
+  ]
+}

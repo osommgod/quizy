@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Records",
+  "topic": "Awards",
+  "questions": [
+    {
+      "id": 1,
+      "question": "MS Dhoni has won more Player of the Match awards in ODIs than any other player.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Sachin Tendulkar holds the record for most Player of the Match awards in Test cricket.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Virat Kohli has won the ICC Cricketer of the Year award more than once.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Jacques Kallis has won more Player of the Match awards than any other all-rounder.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Shane Warne never won the ICC Player of the Year award during his career.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Mithali Raj holds the record for most Player of the Match awards in women's ODIs.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Ricky Ponting has won more Player of the Series awards in Test cricket than any other captain.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "AB de Villiers has never won the ICC ODI Player of the Year award.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Shahid Afridi holds the record for most Player of the Match awards in T20Is.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Brian Lara won Player of the Match when he scored his record 400 not out.",
+      "answer": true
+    }
+  ]
+}

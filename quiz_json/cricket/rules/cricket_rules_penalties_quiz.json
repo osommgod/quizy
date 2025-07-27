@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Rules",
+  "topic": "Penalties",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A penalty of 5 runs is awarded for deliberate short running by the batting team.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Ball tampering can result in a 5-run penalty to the bowling team.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A fielder can be penalized for deliberately distracting the batsman.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Time wasting by the bowling team results in 5 penalty runs.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "A player can be sent off the field for serious misconduct.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Damaging the pitch deliberately results in a warning before any penalty.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "The umpire can award penalty runs without consulting the other umpire.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "A bowler can be suspended from bowling for the rest of the innings for dangerous bowling.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Penalty runs are always awarded at the end of the innings.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The maximum penalty runs that can be awarded for a single incident is 10.",
+      "answer": false
+    }
+  ]
+}

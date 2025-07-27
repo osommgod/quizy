@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "World Cup",
+  "topic": "Finals",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The 2019 World Cup final was decided by a Super Over.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Australia has appeared in more World Cup finals than any other team.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The first World Cup final was played at Lord's Cricket Ground.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "India has won the World Cup final on home soil.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "No World Cup final has ever been decided by the Duckworth-Lewis method.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "England had never won a World Cup final before 2019.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The 1999 World Cup final ended in a tie.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Sri Lanka won their only World Cup final in 1996.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Pakistan has lost more World Cup finals than they have won.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The West Indies appeared in the first three consecutive World Cup finals.",
+      "answer": true
+    }
+  ]
+}

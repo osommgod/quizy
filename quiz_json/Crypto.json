@@ -1,0 +1,1528 @@
+{
+  "Crypto": {
+  "Bitcoin": {
+    "History": [
+      {
+        "question": "History has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "History is a well-known feature in the Bitcoin ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Bitcoin, History plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Understanding History is crucial for grasping Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "History is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "History is a well-known feature in the Bitcoin ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Bitcoin, History plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "History is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "History is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "History is not related to Bitcoin in any form.",
+        "answer": false
+      }
+    ],
+    "Technology": [
+      {
+        "question": "Technology is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Technology has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Technology is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Technology has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Bitcoin involves the study of Technology.",
+        "answer": true
+      },
+      {
+        "question": "Technology is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Bitcoin involves the study of Technology.",
+        "answer": true
+      },
+      {
+        "question": "Bitcoin never involves the use of Technology.",
+        "answer": false
+      },
+      {
+        "question": "Technology is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "Bitcoin involves the study of Technology.",
+        "answer": true
+      }
+    ],
+    "Transactions": [
+      {
+        "question": "Transactions is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Transactions in Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Transactions has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Transactions is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Transactions is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Transactions is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "Transactions is a well-known feature in the Bitcoin ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Bitcoin, Transactions plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Transactions is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Transactions is crucial for grasping Bitcoin.",
+        "answer": true
+      }
+    ],
+    "Mining": [
+      {
+        "question": "Mining is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Mining is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "Bitcoin never involves the use of Mining.",
+        "answer": false
+      },
+      {
+        "question": "Mining has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Mining is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Mining is crucial for grasping Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Bitcoin never involves the use of Mining.",
+        "answer": false
+      },
+      {
+        "question": "Mining is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Bitcoin, Mining plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Mining in Bitcoin.",
+        "answer": false
+      }
+    ],
+    "Wallets": [
+      {
+        "question": "Wallets has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Bitcoin involves the study of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Wallets is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Wallets is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "Wallets is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Wallets in Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Wallets is a well-known feature in the Bitcoin ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Wallets has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Wallets is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Wallets is irrelevant in the context of Bitcoin.",
+        "answer": false
+      }
+    ],
+    "Future": [
+      {
+        "question": "Future is not related to Bitcoin in any form.",
+        "answer": false
+      },
+      {
+        "question": "Future is irrelevant in the context of Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Future is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Bitcoin, Future plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Future is an essential aspect of Bitcoin.",
+        "answer": true
+      },
+      {
+        "question": "Bitcoin involves the study of Future.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Future in Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Bitcoin involves the study of Future.",
+        "answer": true
+      },
+      {
+        "question": "Future has nothing to do with Bitcoin.",
+        "answer": false
+      },
+      {
+        "question": "Bitcoin never involves the use of Future.",
+        "answer": false
+      }
+    ]
+  },
+  "Ethereum": {
+    "Smart Contracts": [
+      {
+        "question": "Smart Contracts is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Smart Contracts is irrelevant in the context of Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Smart Contracts is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Ethereum, Smart Contracts plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Smart Contracts is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Smart Contracts is crucial for grasping Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Smart Contracts is an essential aspect of Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Smart Contracts is an essential aspect of Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Smart Contracts is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Ethereum never involves the use of Smart Contracts.",
+        "answer": false
+      }
+    ],
+    "History": [
+      {
+        "question": "History is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as History in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "History is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "History is irrelevant in the context of Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "History has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Ethereum never involves the use of History.",
+        "answer": false
+      },
+      {
+        "question": "Ethereum never involves the use of History.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as History in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "History has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Ethereum never involves the use of History.",
+        "answer": false
+      }
+    ],
+    "Technology": [
+      {
+        "question": "Ethereum never involves the use of Technology.",
+        "answer": false
+      },
+      {
+        "question": "Ethereum involves the study of Technology.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Ethereum, Technology plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Technology is crucial for grasping Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Technology has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Technology is irrelevant in the context of Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Technology is irrelevant in the context of Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Technology is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Technology is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Technology is irrelevant in the context of Ethereum.",
+        "answer": false
+      }
+    ],
+    "DApps": [
+      {
+        "question": "DApps is not related to Ethereum in any form.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as DApps in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "DApps has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "DApps is an essential aspect of Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "DApps has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Understanding DApps is crucial for grasping Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Ethereum involves the study of DApps.",
+        "answer": true
+      },
+      {
+        "question": "Ethereum never involves the use of DApps.",
+        "answer": false
+      },
+      {
+        "question": "DApps is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Ethereum, DApps plays a vital role.",
+        "answer": true
+      }
+    ],
+    "Tokens": [
+      {
+        "question": "Ethereum involves the study of Tokens.",
+        "answer": true
+      },
+      {
+        "question": "Tokens is an essential aspect of Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Tokens has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Tokens in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Ethereum, Tokens plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Tokens in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Tokens is irrelevant in the context of Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Tokens is a well-known feature in the Ethereum ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Ethereum involves the study of Tokens.",
+        "answer": true
+      },
+      {
+        "question": "Tokens is not related to Ethereum in any form.",
+        "answer": false
+      }
+    ],
+    "Future": [
+      {
+        "question": "There is no such thing as Future in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Future is crucial for grasping Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Future has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Future in Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Future is an essential aspect of Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Future has nothing to do with Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Ethereum involves the study of Future.",
+        "answer": true
+      },
+      {
+        "question": "Future is irrelevant in the context of Ethereum.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Future is crucial for grasping Ethereum.",
+        "answer": true
+      },
+      {
+        "question": "Ethereum involves the study of Future.",
+        "answer": true
+      }
+    ]
+  },
+  "Stablecoins": {
+    "Types": [
+      {
+        "question": "Stablecoins never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "Stablecoins involves the study of Types.",
+        "answer": true
+      },
+      {
+        "question": "Stablecoins never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "Stablecoins never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Types is crucial for grasping Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Stablecoins, Types plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Types has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Types is a well-known feature in the Stablecoins ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Stablecoins never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "Types is an essential aspect of Stablecoins.",
+        "answer": true
+      }
+    ],
+    "Usage": [
+      {
+        "question": "Usage is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Usage is crucial for grasping Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "Usage is an essential aspect of Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "Usage is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Usage is a well-known feature in the Stablecoins ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Stablecoins, Usage plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Usage is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Usage has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Usage has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Stablecoins never involves the use of Usage.",
+        "answer": false
+      }
+    ],
+    "Regulation": [
+      {
+        "question": "Regulation is irrelevant in the context of Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Stablecoins, Regulation plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Regulation has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Stablecoins, Regulation plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Regulation is irrelevant in the context of Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Regulation is a well-known feature in the Stablecoins ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Regulation is irrelevant in the context of Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Regulation is crucial for grasping Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Stablecoins, Regulation plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Stablecoins, Regulation plays a vital role.",
+        "answer": true
+      }
+    ],
+    "Backing": [
+      {
+        "question": "Stablecoins involves the study of Backing.",
+        "answer": true
+      },
+      {
+        "question": "Stablecoins never involves the use of Backing.",
+        "answer": false
+      },
+      {
+        "question": "Backing has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Backing is crucial for grasping Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "Stablecoins involves the study of Backing.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Backing is crucial for grasping Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "Backing is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Backing is irrelevant in the context of Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Stablecoins never involves the use of Backing.",
+        "answer": false
+      },
+      {
+        "question": "Backing is irrelevant in the context of Stablecoins.",
+        "answer": false
+      }
+    ],
+    "Stability": [
+      {
+        "question": "Stability has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Stability in Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Stability in Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Stability in Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Stablecoins involves the study of Stability.",
+        "answer": true
+      },
+      {
+        "question": "Stablecoins involves the study of Stability.",
+        "answer": true
+      },
+      {
+        "question": "Stability is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Stability has nothing to do with Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Stability in Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Stability is an essential aspect of Stablecoins.",
+        "answer": true
+      }
+    ],
+    "Risks": [
+      {
+        "question": "Stablecoins involves the study of Risks.",
+        "answer": true
+      },
+      {
+        "question": "Stablecoins never involves the use of Risks.",
+        "answer": false
+      },
+      {
+        "question": "Risks is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Stablecoins involves the study of Risks.",
+        "answer": true
+      },
+      {
+        "question": "Risks is not related to Stablecoins in any form.",
+        "answer": false
+      },
+      {
+        "question": "Risks is a well-known feature in the Stablecoins ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Stablecoins, Risks plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Risks is an essential aspect of Stablecoins.",
+        "answer": true
+      },
+      {
+        "question": "Risks is irrelevant in the context of Stablecoins.",
+        "answer": false
+      },
+      {
+        "question": "Risks is not related to Stablecoins in any form.",
+        "answer": false
+      }
+    ]
+  },
+  "Blockchain": {
+    "Basics": [
+      {
+        "question": "Basics is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Blockchain never involves the use of Basics.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain never involves the use of Basics.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain involves the study of Basics.",
+        "answer": true
+      },
+      {
+        "question": "Blockchain never involves the use of Basics.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Basics in Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain involves the study of Basics.",
+        "answer": true
+      },
+      {
+        "question": "Basics is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Blockchain, Basics plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Blockchain never involves the use of Basics.",
+        "answer": false
+      }
+    ],
+    "Security": [
+      {
+        "question": "Blockchain involves the study of Security.",
+        "answer": true
+      },
+      {
+        "question": "Security has nothing to do with Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Security is an essential aspect of Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Security is irrelevant in the context of Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain never involves the use of Security.",
+        "answer": false
+      },
+      {
+        "question": "Security is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Security has nothing to do with Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Blockchain, Security plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Security is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Security in Blockchain.",
+        "answer": false
+      }
+    ],
+    "Consensus": [
+      {
+        "question": "Consensus is irrelevant in the context of Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain never involves the use of Consensus.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Consensus in Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain involves the study of Consensus.",
+        "answer": true
+      },
+      {
+        "question": "Consensus is an essential aspect of Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Consensus is an essential aspect of Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Consensus is not related to Blockchain in any form.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain never involves the use of Consensus.",
+        "answer": false
+      },
+      {
+        "question": "Consensus is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Consensus is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      }
+    ],
+    "Types": [
+      {
+        "question": "Types has nothing to do with Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Types in Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Types is an essential aspect of Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Types has nothing to do with Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Types in Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Types is an essential aspect of Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Types is not related to Blockchain in any form.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Types in Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Types has nothing to do with Blockchain.",
+        "answer": false
+      }
+    ],
+    "Use Cases": [
+      {
+        "question": "In the context of Blockchain, Use Cases plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Blockchain involves the study of Use Cases.",
+        "answer": true
+      },
+      {
+        "question": "Use Cases is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Use Cases is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Use Cases has nothing to do with Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Use Cases is irrelevant in the context of Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Use Cases is crucial for grasping Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Use Cases is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Use Cases is a well-known feature in the Blockchain ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Use Cases is an essential aspect of Blockchain.",
+        "answer": true
+      }
+    ],
+    "Future": [
+      {
+        "question": "Blockchain involves the study of Future.",
+        "answer": true
+      },
+      {
+        "question": "Blockchain never involves the use of Future.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Future in Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Future is an essential aspect of Blockchain.",
+        "answer": true
+      },
+      {
+        "question": "Blockchain never involves the use of Future.",
+        "answer": false
+      },
+      {
+        "question": "Future is not related to Blockchain in any form.",
+        "answer": false
+      },
+      {
+        "question": "Blockchain involves the study of Future.",
+        "answer": true
+      },
+      {
+        "question": "Future has nothing to do with Blockchain.",
+        "answer": false
+      },
+      {
+        "question": "Future is not related to Blockchain in any form.",
+        "answer": false
+      },
+      {
+        "question": "Future is irrelevant in the context of Blockchain.",
+        "answer": false
+      }
+    ]
+  },
+  "Wallets": {
+    "Types": [
+      {
+        "question": "Types is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "Wallets involves the study of Types.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Types is crucial for grasping Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Wallets never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "Types is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "Wallets never involves the use of Types.",
+        "answer": false
+      },
+      {
+        "question": "Types has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Types has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Types is irrelevant in the context of Wallets.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Wallets, Types plays a vital role.",
+        "answer": true
+      }
+    ],
+    "Security": [
+      {
+        "question": "Security has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Security is a well-known feature in the Wallets ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Security has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Security is an essential aspect of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Security is crucial for grasping Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Security is an essential aspect of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Security has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Security is an essential aspect of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Security is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "In the context of Wallets, Security plays a vital role.",
+        "answer": true
+      }
+    ],
+    "Usage": [
+      {
+        "question": "In the context of Wallets, Usage plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Usage is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Usage is crucial for grasping Wallets.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Usage in Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Usage is an essential aspect of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Usage is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "Usage is an essential aspect of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Understanding Usage is crucial for grasping Wallets.",
+        "answer": true
+      },
+      {
+        "question": "Usage has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Usage is irrelevant in the context of Wallets.",
+        "answer": false
+      }
+    ],
+    "Hardware": [
+      {
+        "question": "Wallets never involves the use of Hardware.",
+        "answer": false
+      },
+      {
+        "question": "Hardware is an essential aspect of Wallets.",
+        "answer": true
+      },
+      {
+        "question": "In the context of Wallets, Hardware plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Wallets involves the study of Hardware.",
+        "answer": true
+      },
+      {
+        "question": "Hardware is a well-known feature in the Wallets ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Hardware is irrelevant in the context of Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Hardware has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Hardware is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "Hardware is a well-known feature in the Wallets ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Wallets involves the study of Hardware.",
+        "answer": true
+      }
+    ],
+    "Software": [
+      {
+        "question": "In the context of Wallets, Software plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Wallets never involves the use of Software.",
+        "answer": false
+      },
+      {
+        "question": "Software is irrelevant in the context of Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Software is irrelevant in the context of Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Software is a well-known feature in the Wallets ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Software in Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Software is a well-known feature in the Wallets ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Wallets involves the study of Software.",
+        "answer": true
+      },
+      {
+        "question": "Software is irrelevant in the context of Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Software has nothing to do with Wallets.",
+        "answer": false
+      }
+    ],
+    "Recovery": [
+      {
+        "question": "There is no such thing as Recovery in Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Recovery has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Recovery has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Wallets never involves the use of Recovery.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Recovery in Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Wallets involves the study of Recovery.",
+        "answer": true
+      },
+      {
+        "question": "Wallets never involves the use of Recovery.",
+        "answer": false
+      },
+      {
+        "question": "Recovery has nothing to do with Wallets.",
+        "answer": false
+      },
+      {
+        "question": "Recovery is not related to Wallets in any form.",
+        "answer": false
+      },
+      {
+        "question": "Wallets never involves the use of Recovery.",
+        "answer": false
+      }
+    ]
+  },
+  "NFTs": {
+    "Concepts": [
+      {
+        "question": "Concepts is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Concepts is irrelevant in the context of NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Concepts is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "In the context of NFTs, Concepts plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "NFTs involves the study of Concepts.",
+        "answer": true
+      },
+      {
+        "question": "NFTs involves the study of Concepts.",
+        "answer": true
+      },
+      {
+        "question": "In the context of NFTs, Concepts plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Concepts in NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Concepts is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "NFTs involves the study of Concepts.",
+        "answer": true
+      }
+    ],
+    "Marketplaces": [
+      {
+        "question": "Marketplaces is irrelevant in the context of NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Marketplaces is crucial for grasping NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Marketplaces has nothing to do with NFTs.",
+        "answer": false
+      },
+      {
+        "question": "NFTs involves the study of Marketplaces.",
+        "answer": true
+      },
+      {
+        "question": "Marketplaces is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "NFTs never involves the use of Marketplaces.",
+        "answer": false
+      },
+      {
+        "question": "NFTs involves the study of Marketplaces.",
+        "answer": true
+      },
+      {
+        "question": "Marketplaces is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Marketplaces is irrelevant in the context of NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Marketplaces is an essential aspect of NFTs.",
+        "answer": true
+      }
+    ],
+    "Art": [
+      {
+        "question": "Art is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Art is irrelevant in the context of NFTs.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Art in NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Art has nothing to do with NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Art is irrelevant in the context of NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Art is not related to NFTs in any form.",
+        "answer": false
+      },
+      {
+        "question": "Art is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "NFTs involves the study of Art.",
+        "answer": true
+      },
+      {
+        "question": "NFTs never involves the use of Art.",
+        "answer": false
+      },
+      {
+        "question": "Art is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      }
+    ],
+    "Gaming": [
+      {
+        "question": "In the context of NFTs, Gaming plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Gaming is irrelevant in the context of NFTs.",
+        "answer": false
+      },
+      {
+        "question": "Gaming is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "NFTs involves the study of Gaming.",
+        "answer": true
+      },
+      {
+        "question": "Gaming is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Gaming in NFTs.",
+        "answer": false
+      },
+      {
+        "question": "NFTs never involves the use of Gaming.",
+        "answer": false
+      },
+      {
+        "question": "Gaming has nothing to do with NFTs.",
+        "answer": false
+      },
+      {
+        "question": "NFTs never involves the use of Gaming.",
+        "answer": false
+      },
+      {
+        "question": "Gaming is irrelevant in the context of NFTs.",
+        "answer": false
+      }
+    ],
+    "Legal": [
+      {
+        "question": "Legal is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "There is no such thing as Legal in NFTs.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Legal in NFTs.",
+        "answer": false
+      },
+      {
+        "question": "There is no such thing as Legal in NFTs.",
+        "answer": false
+      },
+      {
+        "question": "NFTs never involves the use of Legal.",
+        "answer": false
+      },
+      {
+        "question": "In the context of NFTs, Legal plays a vital role.",
+        "answer": true
+      },
+      {
+        "question": "Legal is not related to NFTs in any form.",
+        "answer": false
+      },
+      {
+        "question": "Understanding Legal is crucial for grasping NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Legal is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Legal is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      }
+    ],
+    "Future": [
+      {
+        "question": "Understanding Future is crucial for grasping NFTs.",
+        "answer": true
+      },
+      {
+        "question": "NFTs never involves the use of Future.",
+        "answer": false
+      },
+      {
+        "question": "Future is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "NFTs never involves the use of Future.",
+        "answer": false
+      },
+      {
+        "question": "NFTs involves the study of Future.",
+        "answer": true
+      },
+      {
+        "question": "Future is an essential aspect of NFTs.",
+        "answer": true
+      },
+      {
+        "question": "Future is a well-known feature in the NFTs ecosystem.",
+        "answer": true
+      },
+      {
+        "question": "Future has nothing to do with NFTs.",
+        "answer": false
+      },
+      {
+        "question": "NFTs never involves the use of Future.",
+        "answer": false
+      },
+      {
+        "question": "Future is irrelevant in the context of NFTs.",
+        "answer": false
+      }
+    ]
+  }
+}
+}

@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Records",
+  "topic": "Bowling",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Muttiah Muralitharan holds the record for most Test wickets with 800 dismissals.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The best bowling figures in Test cricket are 10/53 by Jim Laker.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Wasim Akram has taken more ODI wickets than any other bowler.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The fastest recorded cricket delivery was bowled at over 160 km/h.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Anil Kumble is the only bowler to take all 10 wickets in a Test innings.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Shane Warne took exactly 708 Test wickets in his career.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The record for most wickets in a single World Cup is held by an Australian bowler.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Rashid Khan holds the record for most T20I wickets.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The best ODI bowling figures are 8/19 by Chaminda Vaas.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "No bowler has ever taken a hat-trick in all three formats of international cricket.",
+      "answer": false
+    }
+  ]
+}

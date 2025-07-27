@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "IPL",
+  "topic": "Seasons",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The first IPL season was held in 2007.",
+      "correct_answer": false
+    },
+    {
+      "id": 2,
+      "question": "IPL 2020 was entirely hosted in the UAE due to COVID-19 restrictions.",
+      "correct_answer": true
+    },
+    {
+      "id": 3,
+      "question": "Chennai Super Kings won the 2010 IPL season.",
+      "correct_answer": false
+    },
+    {
+      "id": 4,
+      "question": "The 2011 IPL season featured 10 teams.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "question": "Rohit Sharma holds the record for most runs in a single IPL season.",
+      "correct_answer": false
+    },
+    {
+      "id": 6,
+      "question": "IPL 2013 was the first season to implement the DRS system.",
+      "correct_answer": true
+    },
+    {
+      "id": 7,
+      "question": "The 2014 IPL season was co-hosted by UAE and India.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "Gujarat Titans won the 2022 IPL season in their debut appearance.",
+      "correct_answer": true
+    },
+    {
+      "id": 9,
+      "question": "IPL 2009 was held in South Africa.",
+      "correct_answer": true
+    },
+    {
+      "id": 10,
+      "question": "The 2021 IPL season was completed in a single phase without interruptions.",
+      "correct_answer": false
+    }
+  ]
+}

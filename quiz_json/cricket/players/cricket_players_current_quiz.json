@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Players",
+  "topic": "Current",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Virat Kohli is the current captain of the Indian cricket team in all formats.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "Pat Cummins is the current captain of the Australian Test team.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Babar Azam is currently ranked as the number 1 ODI batsman.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Jos Buttler is the current captain of England's white-ball teams.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Kagiso Rabada is currently the number 1 ranked Test bowler.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Steve Smith is still an active international cricketer.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Rohit Sharma is the current captain of India's Test team.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Kane Williamson is the current captain of New Zealand in all formats.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Rashid Khan is currently playing international cricket for Afghanistan.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Ben Stokes has retired from ODI cricket.",
+      "answer": true
+    }
+  ]
+}

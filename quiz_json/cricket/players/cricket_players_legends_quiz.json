@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Players",
+  "topic": "Legends",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Don Bradman is widely regarded as the greatest batsman in cricket history.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Sir Garfield Sobers was the first cricketer to hit 6 sixes in an over.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "W.G. Grace played cricket in the 19th century.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Viv Richards was known as the 'Master Blaster'.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Imran Khan later became the Prime Minister of Pakistan.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Kapil Dev was the first player to take 400 Test wickets and score 5000 Test runs.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Ian Botham was known as 'Beefy' during his playing career.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Sunil Gavaskar was the first batsman to score 10,000 Test runs.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Shane Warne bowled both right-arm and left-arm spin bowling.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Sachin Tendulkar was nicknamed the 'Little Master'.",
+      "answer": true
+    }
+  ]
+}

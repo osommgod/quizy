@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Rules",
+  "topic": "Bowling",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A bowler must bowl with a straight arm and cannot bend their elbow more than 15 degrees.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In Test cricket, there is no limit to the number of overs a bowler can bowl in succession.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "A ball is called 'wide' if it passes outside the batsman's reach while they are in a normal stance.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A bowler can bowl consecutive overs from both ends of the pitch.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "In ODI cricket, a bowler can bowl a maximum of 10 overs.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "A bouncer is limited to 2 per over in international cricket.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "The bowling crease is 8 feet 8 inches wide.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "A no-ball is called if the bowler's front foot completely crosses the popping crease.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "In T20 cricket, a bowler can bowl a maximum of 4 overs.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "A bowler must inform the umpire if they intend to bowl around the wicket.",
+      "answer": true
+    }
+  ]
+}

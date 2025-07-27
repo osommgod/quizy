@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "World Cup",
+  "topic": "Players",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sachin Tendulkar has played in 6 different World Cups.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Kapil Dev was the captain when India won their first World Cup in 1983.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Clive Lloyd captained West Indies to victory in both 1975 and 1979 World Cups.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "AB de Villiers holds the record for fastest World Cup century.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Wasim Akram was the leading wicket-taker in Pakistan's 1992 World Cup victory.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Ricky Ponting was the captain for all 3 of Australia's consecutive World Cup wins.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Martin Guptill holds the record for highest individual score in World Cup cricket.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Muttiah Muralitharan has taken more World Cup wickets than any other spinner.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Viv Richards never won a World Cup as captain.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Ben Stokes was the Player of the Final in England's 2019 World Cup victory.",
+      "answer": true
+    }
+  ]
+}

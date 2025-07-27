@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Records",
+  "topic": "Batting",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Brian Lara holds the record for the highest individual score in Test cricket with 400 not out.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Sachin Tendulkar has scored more than 100 international centuries.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The highest ODI individual score is over 300 runs.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Don Bradman's Test batting average is exactly 99.94.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Chris Gayle holds the record for most sixes in international cricket.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Rohit Sharma has scored 3 double centuries in ODI cricket.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The fastest Test century was scored in under 30 balls.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Allan Border holds the record for most Test runs by an Australian.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Virat Kohli has the most runs in T20 International cricket.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The record for most runs in a single over is 36 runs.",
+      "answer": true
+    }
+  ]
+}

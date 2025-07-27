@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Records",
+  "topic": "World Records",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The longest cricket match in history lasted 12 days.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The highest individual score in any form of cricket is over 500 runs.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The fastest century in any cricket match was scored in 35 balls.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "The most runs scored in a single over in professional cricket is 77.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The largest cricket stadium in the world is located in India.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "The oldest cricket ground still in use is Lord's Cricket Ground.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "The highest altitude cricket match was played at over 2,000 meters above sea level.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "The most sixes hit in a single innings in professional cricket is over 20.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The fastest bowling speed ever recorded in cricket exceeded 100 mph.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The longest six ever hit in cricket traveled over 150 meters.",
+      "answer": true
+    }
+  ]
+}

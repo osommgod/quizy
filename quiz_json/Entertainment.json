@@ -1,0 +1,1528 @@
+{
+  "Entertainment": {
+    "Bollywood": {
+      "Actors": [
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Movies": [
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "History": [
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Songs": [
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Awards": [
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Controversies": [
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        }
+      ]
+    },
+    "Hollywood": {
+      "Actors": [
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Movies": [
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Movies is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "History": [
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Songs": [
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Songs is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Awards": [
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Controversies": [
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        }
+      ]
+    },
+    "Web Series": {
+      "Platforms": [
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Platforms is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Genres": [
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Popular": [
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Popular is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "International": [
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "International is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Awards": [
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Production": [
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Production is an essential topic in Technology.",
+          "answer": false
+        }
+      ]
+    },
+    "Music": {
+      "Genres": [
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Genres is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Artists": [
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Artists is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Instruments": [
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Instruments is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "History": [
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "History is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Awards": [
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Awards is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Streaming": [
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Streaming is an essential topic in Technology.",
+          "answer": false
+        }
+      ]
+    },
+    "Awards": {
+      "Oscars": [
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Oscars is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Grammys": [
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Grammys is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Emmys": [
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Emmys is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Cannes": [
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Cannes is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "BAFTA": [
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "BAFTA is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "National": [
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "National is an essential topic in Technology.",
+          "answer": true
+        }
+      ]
+    },
+    "Celebrities": {
+      "Actors": [
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Actors is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Musicians": [
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Musicians is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Directors": [
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Directors is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Sports": [
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Sports is an essential topic in Technology.",
+          "answer": false
+        }
+      ],
+      "Influencers": [
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Influencers is an essential topic in Technology.",
+          "answer": true
+        }
+      ],
+      "Controversies": [
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": false
+        },
+        {
+          "question": "Controversies is an essential topic in Technology.",
+          "answer": true
+        }
+      ]
+    }
+  }
+}

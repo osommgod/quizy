@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "ICC",
+  "topic": "Formats",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Test cricket is the longest format of international cricket recognized by the ICC.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "ODI cricket matches consist of 40 overs per side.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "T20 International matches have a maximum of 20 overs per team.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "The ICC World Test Championship is held every two years.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "In ODI cricket, each bowler can bowl a maximum of 10 overs.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Test matches can last up to 5 days with 6 hours of play per day.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The ICC T20 World Cup is held every four years.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "In Test cricket, there is no limit to the number of overs a bowler can bowl in an innings.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "ODI cricket uses two new balls, one from each end, throughout the innings.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "T20 cricket allows for a maximum of 4 fielders outside the 30-yard circle during non-powerplay overs.",
+      "answer": false
+    }
+  ]
+}

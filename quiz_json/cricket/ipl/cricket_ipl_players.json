@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "IPL",
+  "topic": "Players",
+  "questions": [
+    {
+      "id": 1,
+      "question": "MS Dhoni has played for only one franchise (Chennai Super Kings) in IPL history.",
+      "correct_answer": false
+    },
+    {
+      "id": 2,
+      "question": "Virat Kohli has played for only one franchise (Royal Challengers Bangalore) in IPL history.",
+      "correct_answer": true
+    },
+    {
+      "id": 3,
+      "question": "AB de Villiers has represented both Delhi Daredevils and Royal Challengers Bangalore in IPL.",
+      "correct_answer": true
+    },
+    {
+      "id": 4,
+      "question": "Rohit Sharma started his IPL career with Deccan Chargers before moving to Mumbai Indians.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "question": "Chris Gayle holds the record for most sixes in IPL history.",
+      "correct_answer": true
+    },
+    {
+      "id": 6,
+      "question": "Lasith Malinga has taken more wickets than any other bowler in IPL history.",
+      "correct_answer": false
+    },
+    {
+      "id": 7,
+      "question": "Suresh Raina was the first player to score 5000 runs in IPL.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "David Warner has won the Orange Cap (leading run-scorer) a record three times.",
+      "correct_answer": true
+    },
+    {
+      "id": 9,
+      "question": "Ravindra Jadeja holds the record for most catches by a fielder in IPL history.",
+      "correct_answer": false
+    },
+    {
+      "id": 10,
+      "question": "Shane Watson is the only player to have scored centuries in two different IPL finals.",
+      "correct_answer": true
+    }
+  ]
+}

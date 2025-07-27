@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Rules",
+  "topic": "Batting",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A batsman can be given out if they hit the ball twice intentionally.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The maximum width of a cricket bat is 4.25 inches.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A batsman can be stumped off a wide ball.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Both batsmen can be run out on the same ball.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "A batsman cannot be given out LBW if they are hit outside the line of off stump.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "The batting team can declare their innings closed at any time.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "A new batsman has unlimited time to reach the crease after a wicket falls.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "A batsman can use a runner if they are injured during their innings.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "The batsman on strike must face the first ball of each over.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "A batsman can be given out 'obstructing the field' for deliberately blocking a fielder.",
+      "answer": true
+    }
+  ]
+}

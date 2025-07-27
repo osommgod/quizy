@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "ICC",
+  "topic": "Awards",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Sir Garfield Sobers Trophy is awarded to the ICC Cricketer of the Year.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The ICC Awards ceremony is held every two years.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "The Rachael Heyhoe Flint Trophy is awarded to the ICC Women's Cricketer of the Year.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "The ICC Spirit of Cricket Award recognizes fair play and sportsmanship.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The David Shepherd Trophy is awarded to the ICC Umpire of the Year.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Players can win the same ICC award multiple times in their career.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The ICC Awards include separate categories for Test, ODI, and T20I performances.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "The ICC Emerging Player of the Year award is only for players under 21 years of age.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "The ICC Awards were first introduced in 2004.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Associate and Affiliate member players are eligible for all ICC Awards categories.",
+      "answer": false
+    }
+  ]
+}

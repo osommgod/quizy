@@ -1,0 +1,1528 @@
+{
+  "World": {
+    "History": {
+      "Ancient": [
+        {
+          "question": "Understanding Ancient is crucial for grasping History.",
+          "answer": true
+        },
+        {
+          "question": "Ancient has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Ancient is crucial for grasping History.",
+          "answer": true
+        },
+        {
+          "question": "Ancient is irrelevant in the context of History.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Ancient in History.",
+          "answer": false
+        },
+        {
+          "question": "Ancient is irrelevant in the context of History.",
+          "answer": false
+        },
+        {
+          "question": "Ancient is a well-known feature in the History ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Ancient is crucial for grasping History.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Ancient in History.",
+          "answer": false
+        },
+        {
+          "question": "Ancient is an essential aspect of History.",
+          "answer": true
+        }
+      ],
+      "Medieval": [
+        {
+          "question": "Medieval is irrelevant in the context of History.",
+          "answer": false
+        },
+        {
+          "question": "History involves the study of Medieval.",
+          "answer": true
+        },
+        {
+          "question": "Medieval is an essential aspect of History.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Medieval in History.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Medieval in History.",
+          "answer": false
+        },
+        {
+          "question": "Medieval has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "History never involves the use of Medieval.",
+          "answer": false
+        },
+        {
+          "question": "Medieval is a well-known feature in the History ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Medieval is not related to History in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Medieval in History.",
+          "answer": false
+        }
+      ],
+      "Modern": [
+        {
+          "question": "In the context of History, Modern plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Modern in History.",
+          "answer": false
+        },
+        {
+          "question": "In the context of History, Modern plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Modern is an essential aspect of History.",
+          "answer": true
+        },
+        {
+          "question": "Modern is a well-known feature in the History ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Modern is crucial for grasping History.",
+          "answer": true
+        },
+        {
+          "question": "Modern has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "Modern has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "Modern is a well-known feature in the History ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "History never involves the use of Modern.",
+          "answer": false
+        }
+      ],
+      "Wars": [
+        {
+          "question": "In the context of History, Wars plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "In the context of History, Wars plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Wars is not related to History in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Wars in History.",
+          "answer": false
+        },
+        {
+          "question": "Wars is irrelevant in the context of History.",
+          "answer": false
+        },
+        {
+          "question": "Wars is an essential aspect of History.",
+          "answer": true
+        },
+        {
+          "question": "In the context of History, Wars plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Wars in History.",
+          "answer": false
+        },
+        {
+          "question": "History never involves the use of Wars.",
+          "answer": false
+        },
+        {
+          "question": "Wars is a well-known feature in the History ecosystem.",
+          "answer": true
+        }
+      ],
+      "Revolutions": [
+        {
+          "question": "Revolutions is not related to History in any form.",
+          "answer": false
+        },
+        {
+          "question": "Revolutions has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "Revolutions is an essential aspect of History.",
+          "answer": true
+        },
+        {
+          "question": "Revolutions has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "History involves the study of Revolutions.",
+          "answer": true
+        },
+        {
+          "question": "Revolutions is an essential aspect of History.",
+          "answer": true
+        },
+        {
+          "question": "In the context of History, Revolutions plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Revolutions is a well-known feature in the History ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Revolutions is irrelevant in the context of History.",
+          "answer": false
+        },
+        {
+          "question": "History never involves the use of Revolutions.",
+          "answer": false
+        }
+      ],
+      "Discoveries": [
+        {
+          "question": "Discoveries has nothing to do with History.",
+          "answer": false
+        },
+        {
+          "question": "In the context of History, Discoveries plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Discoveries in History.",
+          "answer": false
+        },
+        {
+          "question": "Discoveries is not related to History in any form.",
+          "answer": false
+        },
+        {
+          "question": "Discoveries is irrelevant in the context of History.",
+          "answer": false
+        },
+        {
+          "question": "Discoveries is an essential aspect of History.",
+          "answer": true
+        },
+        {
+          "question": "History never involves the use of Discoveries.",
+          "answer": false
+        },
+        {
+          "question": "In the context of History, Discoveries plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "History never involves the use of Discoveries.",
+          "answer": false
+        },
+        {
+          "question": "Discoveries is irrelevant in the context of History.",
+          "answer": false
+        }
+      ]
+    },
+    "Geography": {
+      "Landforms": [
+        {
+          "question": "In the context of Geography, Landforms plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Landforms in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Landforms is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Landforms in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Landforms is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "Landforms is not related to Geography in any form.",
+          "answer": false
+        },
+        {
+          "question": "Landforms is an essential aspect of Geography.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Geography, Landforms plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Landforms is an essential aspect of Geography.",
+          "answer": true
+        },
+        {
+          "question": "Landforms is an essential aspect of Geography.",
+          "answer": true
+        }
+      ],
+      "Climate": [
+        {
+          "question": "Geography never involves the use of Climate.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Climate is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Climate is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "Climate is irrelevant in the context of Geography.",
+          "answer": false
+        },
+        {
+          "question": "Climate is an essential aspect of Geography.",
+          "answer": true
+        },
+        {
+          "question": "Climate is irrelevant in the context of Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography involves the study of Climate.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Climate is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "Climate is an essential aspect of Geography.",
+          "answer": true
+        },
+        {
+          "question": "Climate is an essential aspect of Geography.",
+          "answer": true
+        }
+      ],
+      "Oceans": [
+        {
+          "question": "Oceans is a well-known feature in the Geography ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Oceans in Geography.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Oceans in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography involves the study of Oceans.",
+          "answer": true
+        },
+        {
+          "question": "Oceans is not related to Geography in any form.",
+          "answer": false
+        },
+        {
+          "question": "Geography never involves the use of Oceans.",
+          "answer": false
+        },
+        {
+          "question": "Geography never involves the use of Oceans.",
+          "answer": false
+        },
+        {
+          "question": "Oceans has nothing to do with Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography involves the study of Oceans.",
+          "answer": true
+        },
+        {
+          "question": "Oceans is a well-known feature in the Geography ecosystem.",
+          "answer": true
+        }
+      ],
+      "Mountains": [
+        {
+          "question": "In the context of Geography, Mountains plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Geography never involves the use of Mountains.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Mountains in Geography.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Mountains in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Mountains is not related to Geography in any form.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Mountains is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "Mountains has nothing to do with Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography never involves the use of Mountains.",
+          "answer": false
+        },
+        {
+          "question": "Mountains is not related to Geography in any form.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Mountains is crucial for grasping Geography.",
+          "answer": true
+        }
+      ],
+      "Rivers": [
+        {
+          "question": "Geography never involves the use of Rivers.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Rivers in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography never involves the use of Rivers.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Rivers is crucial for grasping Geography.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Geography, Rivers plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Rivers has nothing to do with Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography never involves the use of Rivers.",
+          "answer": false
+        },
+        {
+          "question": "Rivers has nothing to do with Geography.",
+          "answer": false
+        },
+        {
+          "question": "Rivers is not related to Geography in any form.",
+          "answer": false
+        },
+        {
+          "question": "Rivers is a well-known feature in the Geography ecosystem.",
+          "answer": true
+        }
+      ],
+      "Deserts": [
+        {
+          "question": "Geography involves the study of Deserts.",
+          "answer": true
+        },
+        {
+          "question": "Deserts is not related to Geography in any form.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Geography, Deserts plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Geography, Deserts plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Deserts is irrelevant in the context of Geography.",
+          "answer": false
+        },
+        {
+          "question": "Deserts is a well-known feature in the Geography ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Deserts in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography never involves the use of Deserts.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Deserts in Geography.",
+          "answer": false
+        },
+        {
+          "question": "Geography involves the study of Deserts.",
+          "answer": true
+        }
+      ]
+    },
+    "Current Affairs": {
+      "2023 Events": [
+        {
+          "question": "Understanding 2023 Events is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "2023 Events is irrelevant in the context of Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as 2023 Events in Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "2023 Events is irrelevant in the context of Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Current Affairs never involves the use of 2023 Events.",
+          "answer": false
+        },
+        {
+          "question": "2023 Events has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "2023 Events has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Understanding 2023 Events is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "2023 Events has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Current Affairs involves the study of 2023 Events.",
+          "answer": true
+        }
+      ],
+      "Politics": [
+        {
+          "question": "Politics is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Politics is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Current Affairs involves the study of Politics.",
+          "answer": true
+        },
+        {
+          "question": "Politics is an essential aspect of Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Politics is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Current Affairs, Politics plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Politics is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Current Affairs, Politics plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Politics is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Politics is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        }
+      ],
+      "Environment": [
+        {
+          "question": "Environment is an essential aspect of Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Current Affairs, Environment plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Current Affairs never involves the use of Environment.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Environment in Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Environment is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Current Affairs, Environment plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Environment has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Environment is irrelevant in the context of Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Environment is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "Environment is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        }
+      ],
+      "Health": [
+        {
+          "question": "Understanding Health is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Health is an essential aspect of Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Health is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Current Affairs, Health plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Health has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Health is irrelevant in the context of Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Health is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "Health has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Health is irrelevant in the context of Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Health is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        }
+      ],
+      "Economy": [
+        {
+          "question": "Economy is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Economy has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Economy is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Current Affairs never involves the use of Economy.",
+          "answer": false
+        },
+        {
+          "question": "Economy is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Economy is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "Current Affairs involves the study of Economy.",
+          "answer": true
+        },
+        {
+          "question": "Economy is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Economy is not related to Current Affairs in any form.",
+          "answer": false
+        },
+        {
+          "question": "Economy is irrelevant in the context of Current Affairs.",
+          "answer": false
+        }
+      ],
+      "Technology": [
+        {
+          "question": "Technology is an essential aspect of Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Technology has nothing to do with Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Technology is crucial for grasping Current Affairs.",
+          "answer": true
+        },
+        {
+          "question": "Technology is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Current Affairs, Technology plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Technology in Current Affairs.",
+          "answer": false
+        },
+        {
+          "question": "Technology is a well-known feature in the Current Affairs ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Current Affairs, Technology plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Current Affairs, Technology plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Technology is irrelevant in the context of Current Affairs.",
+          "answer": false
+        }
+      ]
+    },
+    "Capitals": {
+      "Asia": [
+        {
+          "question": "Asia is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Asia has nothing to do with Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Asia is crucial for grasping Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Asia is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Asia is crucial for grasping Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Asia is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Asia.",
+          "answer": true
+        },
+        {
+          "question": "Asia is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Asia is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Capitals never involves the use of Asia.",
+          "answer": false
+        }
+      ],
+      "Europe": [
+        {
+          "question": "In the context of Capitals, Europe plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Europe.",
+          "answer": true
+        },
+        {
+          "question": "Europe is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Europe is not related to Capitals in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Europe in Capitals.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Europe in Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Europe is not related to Capitals in any form.",
+          "answer": false
+        },
+        {
+          "question": "Europe is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Europe is not related to Capitals in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Europe in Capitals.",
+          "answer": false
+        }
+      ],
+      "Africa": [
+        {
+          "question": "Africa is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Africa is irrelevant in the context of Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Africa is irrelevant in the context of Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Africa is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Africa is not related to Capitals in any form.",
+          "answer": false
+        },
+        {
+          "question": "Africa is a well-known feature in the Capitals ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Capitals, Africa plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Africa is crucial for grasping Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Africa.",
+          "answer": true
+        },
+        {
+          "question": "Capitals never involves the use of Africa.",
+          "answer": false
+        }
+      ],
+      "Americas": [
+        {
+          "question": "Americas is not related to Capitals in any form.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Americas is crucial for grasping Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Americas has nothing to do with Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Americas is a well-known feature in the Capitals ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Americas is irrelevant in the context of Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Americas has nothing to do with Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Americas has nothing to do with Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Americas is a well-known feature in the Capitals ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Americas in Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Americas is not related to Capitals in any form.",
+          "answer": false
+        }
+      ],
+      "Oceania": [
+        {
+          "question": "There is no such thing as Oceania in Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Oceania is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Oceania.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Oceania.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Oceania.",
+          "answer": true
+        },
+        {
+          "question": "Capitals involves the study of Oceania.",
+          "answer": true
+        },
+        {
+          "question": "Oceania is irrelevant in the context of Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Capitals never involves the use of Oceania.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Oceania is crucial for grasping Capitals.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Oceania in Capitals.",
+          "answer": false
+        }
+      ],
+      "Islands": [
+        {
+          "question": "There is no such thing as Islands in Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Capitals involves the study of Islands.",
+          "answer": true
+        },
+        {
+          "question": "Islands has nothing to do with Capitals.",
+          "answer": false
+        },
+        {
+          "question": "Islands is a well-known feature in the Capitals ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Islands is an essential aspect of Capitals.",
+          "answer": true
+        },
+        {
+          "question": "Islands is not related to Capitals in any form.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Islands is crucial for grasping Capitals.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Capitals, Islands plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Capitals, Islands plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Capitals never involves the use of Islands.",
+          "answer": false
+        }
+      ]
+    },
+    "Leaders": {
+      "Heads of State": [
+        {
+          "question": "In the context of Leaders, Heads of State plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Heads of State in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Heads of State is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Leaders never involves the use of Heads of State.",
+          "answer": false
+        },
+        {
+          "question": "Heads of State is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Heads of State is irrelevant in the context of Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Heads of State is not related to Leaders in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Heads of State in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Heads of State is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Heads of State is an essential aspect of Leaders.",
+          "answer": true
+        }
+      ],
+      "Historical Leaders": [
+        {
+          "question": "Historical Leaders is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Historical Leaders is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Leaders never involves the use of Historical Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Historical Leaders has nothing to do with Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Historical Leaders is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Leaders never involves the use of Historical Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Historical Leaders is not related to Leaders in any form.",
+          "answer": false
+        },
+        {
+          "question": "Historical Leaders is not related to Leaders in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Historical Leaders in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Historical Leaders in Leaders.",
+          "answer": false
+        }
+      ],
+      "Activists": [
+        {
+          "question": "Leaders involves the study of Activists.",
+          "answer": true
+        },
+        {
+          "question": "Activists is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Activists is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Leaders involves the study of Activists.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Activists is crucial for grasping Leaders.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Activists in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Leaders, Activists plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Activists is crucial for grasping Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Leaders involves the study of Activists.",
+          "answer": true
+        },
+        {
+          "question": "Activists is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        }
+      ],
+      "Business": [
+        {
+          "question": "Business has nothing to do with Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Business is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Business is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Business is not related to Leaders in any form.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Business is crucial for grasping Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Business is crucial for grasping Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Business is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Business is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Business is irrelevant in the context of Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Business is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        }
+      ],
+      "Science": [
+        {
+          "question": "Science is not related to Leaders in any form.",
+          "answer": false
+        },
+        {
+          "question": "Science is irrelevant in the context of Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Science is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Science is crucial for grasping Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Leaders involves the study of Science.",
+          "answer": true
+        },
+        {
+          "question": "Science is irrelevant in the context of Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Science is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Science in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Leaders, Science plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Science is crucial for grasping Leaders.",
+          "answer": true
+        }
+      ],
+      "Religious": [
+        {
+          "question": "Religious is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Religious is a well-known feature in the Leaders ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Religious in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Leaders involves the study of Religious.",
+          "answer": true
+        },
+        {
+          "question": "Leaders involves the study of Religious.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Religious in Leaders.",
+          "answer": false
+        },
+        {
+          "question": "Leaders never involves the use of Religious.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Leaders, Religious plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Religious is an essential aspect of Leaders.",
+          "answer": true
+        },
+        {
+          "question": "Religious is an essential aspect of Leaders.",
+          "answer": true
+        }
+      ]
+    },
+    "Organizations": {
+      "UN": [
+        {
+          "question": "In the context of Organizations, UN plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Organizations never involves the use of UN.",
+          "answer": false
+        },
+        {
+          "question": "UN is irrelevant in the context of Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Organizations involves the study of UN.",
+          "answer": true
+        },
+        {
+          "question": "UN has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "UN has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, UN plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "UN is an essential aspect of Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Understanding UN is crucial for grasping Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Organizations involves the study of UN.",
+          "answer": true
+        }
+      ],
+      "NGOs": [
+        {
+          "question": "NGOs is not related to Organizations in any form.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as NGOs in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, NGOs plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "NGOs is not related to Organizations in any form.",
+          "answer": false
+        },
+        {
+          "question": "NGOs is not related to Organizations in any form.",
+          "answer": false
+        },
+        {
+          "question": "NGOs has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "NGOs is an essential aspect of Organizations.",
+          "answer": true
+        },
+        {
+          "question": "NGOs has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "NGOs is a well-known feature in the Organizations ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "NGOs has nothing to do with Organizations.",
+          "answer": false
+        }
+      ],
+      "Trade": [
+        {
+          "question": "Trade is not related to Organizations in any form.",
+          "answer": false
+        },
+        {
+          "question": "Trade is a well-known feature in the Organizations ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Trade in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Trade in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Organizations involves the study of Trade.",
+          "answer": true
+        },
+        {
+          "question": "Trade is an essential aspect of Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Trade has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Trade is a well-known feature in the Organizations ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Trade is an essential aspect of Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Trade is irrelevant in the context of Organizations.",
+          "answer": false
+        }
+      ],
+      "Military": [
+        {
+          "question": "There is no such thing as Military in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, Military plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Military is an essential aspect of Organizations.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Military in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Military in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, Military plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Military is not related to Organizations in any form.",
+          "answer": false
+        },
+        {
+          "question": "Military is a well-known feature in the Organizations ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Organizations, Military plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Military is an essential aspect of Organizations.",
+          "answer": true
+        }
+      ],
+      "Cultural": [
+        {
+          "question": "Cultural is irrelevant in the context of Organizations.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Cultural in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, Cultural plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "In the context of Organizations, Cultural plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "Cultural is a well-known feature in the Organizations ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Cultural has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, Cultural plays a vital role.",
+          "answer": true
+        },
+        {
+          "question": "There is no such thing as Cultural in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Understanding Cultural is crucial for grasping Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Cultural is crucial for grasping Organizations.",
+          "answer": true
+        }
+      ],
+      "Scientific": [
+        {
+          "question": "Organizations never involves the use of Scientific.",
+          "answer": false
+        },
+        {
+          "question": "Scientific has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Scientific is a well-known feature in the Organizations ecosystem.",
+          "answer": true
+        },
+        {
+          "question": "Scientific has nothing to do with Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Organizations never involves the use of Scientific.",
+          "answer": false
+        },
+        {
+          "question": "There is no such thing as Scientific in Organizations.",
+          "answer": false
+        },
+        {
+          "question": "Scientific is an essential aspect of Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Understanding Scientific is crucial for grasping Organizations.",
+          "answer": true
+        },
+        {
+          "question": "Scientific is irrelevant in the context of Organizations.",
+          "answer": false
+        },
+        {
+          "question": "In the context of Organizations, Scientific plays a vital role.",
+          "answer": true
+        }
+      ]
+    }
+  }
+}

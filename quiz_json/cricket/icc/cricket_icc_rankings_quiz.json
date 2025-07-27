@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "ICC",
+  "topic": "Rankings",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The ICC Player Rankings are updated after every international match.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The ICC Team Rankings system covers all three formats: Test, ODI, and T20I.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A player needs to play a minimum of 5 matches to be eligible for ICC Player Rankings.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The ICC Rankings use a weighted average system based on recent performances.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The number 1 ranked Test team automatically qualifies for the World Test Championship final.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "ICC Player Rankings are separate for batsmen, bowlers, and all-rounders in each format.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The ICC Team Rankings are updated monthly regardless of matches played.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "A player's ranking points can increase even if their team loses the match.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The ICC Rankings system was first introduced in the 1980s.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Associate member countries are included in the ICC Team Rankings for ODI and T20I formats.",
+      "answer": true
+    }
+  ]
+}

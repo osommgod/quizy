@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "ICC",
+  "topic": "History",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The International Cricket Council (ICC) was originally founded as the Imperial Cricket Conference in 1909.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The first Cricket World Cup was held in England in 1975.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Australia was one of the founding members of the ICC.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "The ICC changed its name from Imperial Cricket Conference to International Cricket Conference in 1965.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The first Test match was played between England and Australia in 1877.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "South Africa was a founding member of the ICC in 1909.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The ICC headquarters has always been located in Dubai.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Women's cricket World Cup was first held before the men's T20 World Cup.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The ICC gained its current name 'International Cricket Council' in 1989.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Kerry Packer's World Series Cricket had no impact on ICC cricket in the 1970s.",
+      "answer": false
+    }
+  ]
+}

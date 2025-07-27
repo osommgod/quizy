@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "IPL",
+  "topic": "Teams",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mumbai Indians have won the most IPL titles (5 as of 2023).",
+      "correct_answer": true
+    },
+    {
+      "id": 2,
+      "question": "Royal Challengers Bangalore have won an IPL title.",
+      "correct_answer": false
+    },
+    {
+      "id": 3,
+      "question": "Chennai Super Kings were suspended from IPL for two seasons (2016-2017).",
+      "correct_answer": true
+    },
+    {
+      "id": 4,
+      "question": "Kolkata Knight Riders won their first IPL title in 2014.",
+      "correct_answer": false
+    },
+    {
+      "id": 5,
+      "question": "Rajasthan Royals won the inaugural IPL season in 2008.",
+      "correct_answer": true
+    },
+    {
+      "id": 6,
+      "question": "Sunrisers Hyderabad was originally called Deccan Chargers.",
+      "correct_answer": true
+    },
+    {
+      "id": 7,
+      "question": "Lucknow Super Giants reached the playoffs in their debut season (2022).",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "Punjab Kings (formerly Kings XI Punjab) have reached the IPL finals three times.",
+      "correct_answer": false
+    },
+    {
+      "id": 9,
+      "question": "Delhi Capitals changed their name from Delhi Daredevils in 2019.",
+      "correct_answer": true
+    },
+    {
+      "id": 10,
+      "question": "Gujarat Titans won the IPL title in their debut season (2022).",
+      "correct_answer": true
+    }
+  ]
+}

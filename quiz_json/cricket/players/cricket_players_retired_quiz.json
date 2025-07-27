@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Players",
+  "topic": "Retired",
+  "questions": [
+    {
+      "id": 1,
+      "question": "MS Dhoni announced his retirement from international cricket in 2020.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Mahela Jayawardene retired from all forms of cricket before Kumar Sangakkara.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Alastair Cook is England's leading run-scorer in Test cricket.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Misbah-ul-Haq retired as Pakistan's oldest Test captain.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Shane Watson retired from international cricket but continued playing in T20 leagues.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Brendon McCullum never played Test cricket for New Zealand.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Yuvraj Singh was part of India's 2011 World Cup winning team.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Graeme Smith retired as South Africa's most successful Test captain.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Daniel Vettori was New Zealand's leading wicket-taker in Tests when he retired.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Hashim Amla retired with the highest Test batting average among South African batsmen.",
+      "answer": true
+    }
+  ]
+}

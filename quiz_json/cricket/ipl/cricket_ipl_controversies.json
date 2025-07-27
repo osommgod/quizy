@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "IPL",
+  "topic": "Controversies",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The 2013 IPL spot-fixing scandal involved players from Rajasthan Royals.",
+      "correct_answer": true
+    },
+    {
+      "id": 2,
+      "question": "Chennai Super Kings was banned from IPL for 4 years due to the 2013 betting scandal.",
+      "correct_answer": false
+    },
+    {
+      "id": 3,
+      "question": "Lalit Modi, the founder of IPL, was banned for life by the BCCI in 2013.",
+      "correct_answer": true
+    },
+    {
+      "id": 4,
+      "question": "The 'Slapgate' incident involved Harbhajan Singh slapping Sreesanth after an IPL match in 2008.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "question": "Ravindra Jadeja was banned from IPL for a full season due to contract disputes.",
+      "correct_answer": true
+    },
+    {
+      "id": 6,
+      "question": "The 'Koffee with Karan' controversy led to Hardik Pandya and KL Rahul being suspended from IPL.",
+      "correct_answer": false
+    },
+    {
+      "id": 7,
+      "question": "Shah Rukh Khan was banned from Wankhede Stadium for 5 years after a confrontation with officials.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "The 2021 IPL season was suspended midway due to COVID-19 breaches by players.",
+      "correct_answer": true
+    },
+    {
+      "id": 9,
+      "question": "R Ashwin's 'Mankading' of Jos Buttler in IPL 2019 was the first such dismissal in IPL history.",
+      "correct_answer": false
+    },
+    {
+      "id": 10,
+      "question": "The 'Spirit of Cricket' controversy involved Gautam Gambhir and Virat Kohli during an IPL match.",
+      "correct_answer": true
+    }
+  ]
+}

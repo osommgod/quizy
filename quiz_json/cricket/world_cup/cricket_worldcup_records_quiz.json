@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "World Cup",
+  "topic": "Records",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sachin Tendulkar holds the record for most runs scored in World Cup history.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Glenn McGrath holds the record for most wickets taken in World Cup cricket.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The highest individual score in World Cup history is over 200 runs.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "MS Dhoni holds the record for most dismissals by a wicket-keeper in World Cup history.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Australia's 481/6 against Bangladesh in 2007 is the highest team total in World Cup history.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "No bowler has ever taken a hat-trick in a World Cup final.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Ricky Ponting has captained his team in more World Cup matches than any other captain.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "The lowest completed innings total in World Cup history is below 50 runs.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Javed Miandad played in more World Cups than any other player.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The fastest century in World Cup history was scored in under 50 balls.",
+      "answer": true
+    }
+  ]
+}

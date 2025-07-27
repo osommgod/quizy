@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "IPL",
+  "topic": "Records",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Virat Kohli holds the record for most runs scored in a single IPL season (973 runs in 2016).",
+      "correct_answer": true
+    },
+    {
+      "id": 2,
+      "question": "Alzarri Joseph holds the record for best bowling figures in an IPL match (6/12 for MI in 2019).",
+      "correct_answer": true
+    },
+    {
+      "id": 3,
+      "question": "Chris Gayle holds the record for the highest individual score in an IPL match (175* in 2013).",
+      "correct_answer": true
+    },
+    {
+      "id": 4,
+      "question": "MS Dhoni holds the record for most dismissals by a wicketkeeper in IPL history.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "question": "Rohit Sharma has hit the most centuries in IPL history.",
+      "correct_answer": false
+    },
+    {
+      "id": 6,
+      "question": "AB de Villiers holds the record for fastest fifty in IPL history (off 17 balls).",
+      "correct_answer": false
+    },
+    {
+      "id": 7,
+      "question": "Dwayne Bravo has taken the most wickets in IPL history as of 2023.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "Sunrisers Hyderabad holds the record for highest team total in IPL history (287/3).",
+      "correct_answer": false
+    },
+    {
+      "id": 9,
+      "question": "Mumbai Indians have the most consecutive wins in IPL history (14 matches).",
+      "correct_answer": false
+    },
+    {
+      "id": 10,
+      "question": "KL Rahul holds the record for fastest fifty in IPL history (off 14 balls).",
+      "correct_answer": true
+    }
+  ]
+}

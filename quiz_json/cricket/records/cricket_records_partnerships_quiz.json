@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Records",
+  "topic": "Partnerships",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The highest Test partnership for any wicket is over 600 runs.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Mahela Jayawardene and Kumar Sangakkara hold the record for highest ODI partnership.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The highest opening partnership in Test cricket is held by an Indian pair.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Chris Gayle and Marlon Samuels hold the record for highest T20I partnership.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "The record 10th wicket partnership in Tests is over 200 runs.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Sourav Ganguly and Rahul Dravid have the highest 3rd wicket partnership in ODIs.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The highest partnership in World Cup history is over 350 runs.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Allan Border and Dean Jones hold an Australian partnership record.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The highest partnership for the 6th wicket in Tests is held by a Pakistani pair.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "No partnership in international cricket has ever lasted more than a full day's play.",
+      "answer": false
+    }
+  ]
+}

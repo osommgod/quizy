@@ -1,0 +1,1538 @@
+{
+    "Cricket": {
+        "ICC": {
+            "Awards": [
+                {
+                    "question": "The Sir Garfield Sobers Trophy is awarded to the ICC Cricketer of the Year.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Awards ceremony is held every two years.",
+                    "answer": false
+                },
+                {
+                    "question": "The Rachael Heyhoe Flint Trophy is awarded to the ICC Women's Cricketer of the Year.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Spirit of Cricket Award recognizes fair play and sportsmanship.",
+                    "answer": true
+                },
+                {
+                    "question": "The David Shepherd Trophy is awarded to the ICC Umpire of the Year.",
+                    "answer": true
+                },
+                {
+                    "question": "Players can win the same ICC award multiple times in their career.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Awards include separate categories for Test, ODI, and T20I performances.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Emerging Player of the Year award is only for players under 21 years of age.",
+                    "answer": false
+                },
+                {
+                    "question": "The ICC Awards were first introduced in 2004.",
+                    "answer": true
+                },
+                {
+                    "question": "Associate and Affiliate member players are eligible for all ICC Awards categories.",
+                    "answer": false
+                }
+            ],
+            "Fromats": [
+                {
+                    "question": "Test cricket is the longest format of international cricket recognized by the ICC.",
+                    "answer": true
+                },
+                {
+                    "question": "ODI cricket matches consist of 40 overs per side.",
+                    "answer": false
+                },
+                {
+                    "question": "T20 International matches have a maximum of 20 overs per team.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC World Test Championship is held every two years.",
+                    "answer": false
+                },
+                {
+                    "question": "In ODI cricket, each bowler can bowl a maximum of 10 overs.",
+                    "answer": true
+                },
+                {
+                    "question": "Test matches can last up to 5 days with 6 hours of play per day.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC T20 World Cup is held every four years.",
+                    "answer": false
+                },
+                {
+                    "question": "In Test cricket, there is no limit to the number of overs a bowler can bowl in an innings.",
+                    "answer": true
+                },
+                {
+                    "question": "ODI cricket uses two new balls, one from each end, throughout the innings.",
+                    "answer": true
+                },
+                {
+                    "question": "T20 cricket allows for a maximum of 4 fielders outside the 30-yard circle during non-powerplay overs.",
+                    "answer": false
+                }
+            ],
+            "History": [
+                {
+                    "question": "The International Cricket Council (ICC) was originally founded as the Imperial Cricket Conference in 1909.",
+                    "answer": true
+                },
+                {
+                    "question": "The first Cricket World Cup was held in England in 1975.",
+                    "answer": true
+                },
+                {
+                    "question": "Australia was one of the founding members of the ICC.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC changed its name from Imperial Cricket Conference to International Cricket Conference in 1965.",
+                    "answer": true
+                },
+                {
+                    "question": "The first Test match was played between England and Australia in 1877.",
+                    "answer": true
+                },
+                {
+                    "question": "South Africa was a founding member of the ICC in 1909.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC headquarters has always been located in Dubai.",
+                    "answer": false
+                },
+                {
+                    "question": "Women's cricket World Cup was first held before the men's T20 World Cup.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC gained its current name 'International Cricket Council' in 1989.",
+                    "answer": true
+                },
+                {
+                    "question": "Kerry Packer's World Series Cricket had no impact on ICC cricket in the 1970s.",
+                    "answer": false
+                }
+            ],
+            "Rankings": [
+                {
+                    "question": "The ICC Player Rankings are updated after every international match.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Team Rankings system covers all three formats: Test, ODI, and T20I.",
+                    "answer": true
+                },
+                {
+                    "question": "A player needs to play a minimum of 5 matches to be eligible for ICC Player Rankings.",
+                    "answer": false
+                },
+                {
+                    "question": "The ICC Rankings use a weighted average system based on recent performances.",
+                    "answer": true
+                },
+                {
+                    "question": "The number 1 ranked Test team automatically qualifies for the World Test Championship final.",
+                    "answer": false
+                },
+                {
+                    "question": "ICC Player Rankings are separate for batsmen, bowlers, and all-rounders in each format.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Team Rankings are updated monthly regardless of matches played.",
+                    "answer": false
+                },
+                {
+                    "question": "A player's ranking points can increase even if their team loses the match.",
+                    "answer": true
+                },
+                {
+                    "question": "The ICC Rankings system was first introduced in the 1980s.",
+                    "answer": false
+                },
+                {
+                    "question": "Associate member countries are included in the ICC Team Rankings for ODI and T20I formats.",
+                    "answer": true
+                }
+            ],
+            "Teams": [
+                {
+                    "question": "Afghanistan became a Full Member of the ICC in 2017.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Ireland and Scotland both have Test status in international cricket.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Zimbabwe has never defeated Australia in a Test match.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The West Indies cricket team represents 15 Caribbean nations and territories.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "South Africa was banned from international cricket from 1970 to 1991 due to apartheid policies.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Bangladesh was granted Test status before Zimbabwe.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The Netherlands cricket team has participated in multiple ICC Cricket World Cups.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "India and Pakistan have never faced each other in an ICC tournament final.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "New Zealand is the only Full Member nation that has never hosted a Cricket World Cup.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "All current Full Member nations have won at least one ICC tournament.",
+                    "correct_answer": false
+                }
+            ],
+            "Tournaments": [
+                {
+                    "question": "The ICC Cricket World Cup is held every 5 years.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The ICC T20 World Cup was first held in 2007.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The ICC World Test Championship features a points system where all Test matches count equally.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The ICC Champions Trophy was discontinued after the 2017 edition.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Australia has won the most ICC ODI World Cups (5 titles as of 2023).",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The ICC Women's T20 World Cup has been held more frequently than the Men's T20 World Cup.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The first ICC World Test Championship final was played between India and New Zealand in 2021.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The ICC Under-19 World Cup is held biennially (every 2 years).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Sri Lanka is the only host nation to win the ICC Cricket World Cup (1996).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The ICC World Cup Super League determined qualification for the 2023 World Cup.",
+                    "correct_answer": true
+                }
+            ]
+        },
+        "IPL": {
+            "Controversies": [
+                {
+                    "id": 1,
+                    "question": "The 2013 IPL spot-fixing scandal involved players from Rajasthan Royals.",
+                    "correct_answer": true
+                },
+                {
+                    "id": 2,
+                    "question": "Chennai Super Kings was banned from IPL for 4 years due to the 2013 betting scandal.",
+                    "correct_answer": false
+                },
+                {
+                    "id": 3,
+                    "question": "Lalit Modi, the founder of IPL, was banned for life by the BCCI in 2013.",
+                    "correct_answer": true
+                },
+                {
+                    "id": 4,
+                    "question": "The 'Slapgate' incident involved Harbhajan Singh slapping Sreesanth after an IPL match in 2008.",
+                    "correct_answer": true
+                },
+                {
+                    "id": 5,
+                    "question": "Ravindra Jadeja was banned from IPL for a full season due to contract disputes.",
+                    "correct_answer": true
+                },
+                {
+                    "id": 6,
+                    "question": "The 'Koffee with Karan' controversy led to Hardik Pandya and KL Rahul being suspended from IPL.",
+                    "correct_answer": false
+                },
+                {
+                    "id": 7,
+                    "question": "Shah Rukh Khan was banned from Wankhede Stadium for 5 years after a confrontation with officials.",
+                    "correct_answer": true
+                },
+                {
+                    "id": 8,
+                    "question": "The 2021 IPL season was suspended midway due to COVID-19 breaches by players.",
+                    "correct_answer": true
+                },
+                {
+                    "id": 9,
+                    "question": "R Ashwin's 'Mankading' of Jos Buttler in IPL 2019 was the first such dismissal in IPL history.",
+                    "correct_answer": false
+                },
+                {
+                    "id": 10,
+                    "question": "The 'Spirit of Cricket' controversy involved Gautam Gambhir and Virat Kohli during an IPL match.",
+                    "correct_answer": true
+                }
+            ],
+            "Finals": [
+                {
+                    "question": "The first IPL final in 2008 was won by Rajasthan Royals against Chennai Super Kings.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Mumbai Indians have won all their IPL finals against Chennai Super Kings.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The 2019 IPL final was decided by a Super Over between Mumbai Indians and Chennai Super Kings.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Chennai Super Kings has the record for most IPL final appearances (10 as of 2023).",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The 2020 IPL final between Mumbai Indians and Delhi Capitals was played in Dubai.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Kolkata Knight Riders won their first IPL title by defeating Chennai Super Kings in the final.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "David Warner captained Sunrisers Hyderabad to their maiden IPL title in 2016.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The highest team total in an IPL final is 214/5 by Mumbai Indians in 2020.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "MS Dhoni has won the most IPL finals as captain (5 titles).",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Gujarat Titans defeated Rajasthan Royals in the 2022 IPL final to win their first title.",
+                    "correct_answer": true
+                }
+            ],
+            "Players": [
+                {
+                    "question": "MS Dhoni has played for only one franchise (Chennai Super Kings) in IPL history.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Virat Kohli has played for only one franchise (Royal Challengers Bangalore) in IPL history.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "AB de Villiers has represented both Delhi Daredevils and Royal Challengers Bangalore in IPL.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Rohit Sharma started his IPL career with Deccan Chargers before moving to Mumbai Indians.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Chris Gayle holds the record for most sixes in IPL history.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Lasith Malinga has taken more wickets than any other bowler in IPL history.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Suresh Raina was the first player to score 5000 runs in IPL.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "David Warner has won the Orange Cap (leading run-scorer) a record three times.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Ravindra Jadeja holds the record for most catches by a fielder in IPL history.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Shane Watson is the only player to have scored centuries in two different IPL finals.",
+                    "correct_answer": true
+                }
+            ],
+            "Records": [
+                {
+                    "question": "Virat Kohli holds the record for most runs scored in a single IPL season (973 runs in 2016).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Alzarri Joseph holds the record for best bowling figures in an IPL match (6/12 for MI in 2019).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Chris Gayle holds the record for the highest individual score in an IPL match (175* in 2013).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "MS Dhoni holds the record for most dismissals by a wicketkeeper in IPL history.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Rohit Sharma has hit the most centuries in IPL history.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "AB de Villiers holds the record for fastest fifty in IPL history (off 17 balls).",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Dwayne Bravo has taken the most wickets in IPL history as of 2023.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Sunrisers Hyderabad holds the record for highest team total in IPL history (287/3).",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Mumbai Indians have the most consecutive wins in IPL history (14 matches).",
+                    "correct_answer": false
+                },
+                {
+                    "question": "KL Rahul holds the record for fastest fifty in IPL history (off 14 balls).",
+                    "correct_answer": true
+                }
+            ],
+            "Seasons": [
+                {
+                    "question": "The first IPL season was held in 2007.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "IPL 2020 was entirely hosted in the UAE due to COVID-19 restrictions.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Chennai Super Kings won the 2010 IPL season.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "The 2011 IPL season featured 10 teams.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Rohit Sharma holds the record for most runs in a single IPL season.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "IPL 2013 was the first season to implement the DRS system.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The 2014 IPL season was co-hosted by UAE and India.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Gujarat Titans won the 2022 IPL season in their debut appearance.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "IPL 2009 was held in South Africa.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "The 2021 IPL season was completed in a single phase without interruptions.",
+                    "correct_answer": false
+                }
+            ],
+            "Teams": [
+                {
+                    "question": "Mumbai Indians have won the most IPL titles (5 as of 2023).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Royal Challengers Bangalore have won an IPL title.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Chennai Super Kings were suspended from IPL for two seasons (2016-2017).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Kolkata Knight Riders won their first IPL title in 2014.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Rajasthan Royals won the inaugural IPL season in 2008.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Sunrisers Hyderabad was originally called Deccan Chargers.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Lucknow Super Giants reached the playoffs in their debut season (2022).",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Punjab Kings (formerly Kings XI Punjab) have reached the IPL finals three times.",
+                    "correct_answer": false
+                },
+                {
+                    "question": "Delhi Capitals changed their name from Delhi Daredevils in 2019.",
+                    "correct_answer": true
+                },
+                {
+                    "question": "Gujarat Titans won the IPL title in their debut season (2022).",
+                    "correct_answer": true
+                }
+            ]
+        },
+        "Players": {
+            "Awards": [
+                {
+                    "question": "Virat Kohli has won the ICC Cricketer of the Year award multiple times.",
+                    "answer": true
+                },
+                {
+                    "question": "MS Dhoni was awarded the Padma Bhushan by the Indian government.",
+                    "answer": true
+                },
+                {
+                    "question": "Shane Warne was inducted into the ICC Hall of Fame.",
+                    "answer": true
+                },
+                {
+                    "question": "Ben Stokes won the BBC Sports Personality of the Year award.",
+                    "answer": true
+                },
+                {
+                    "question": "Sachin Tendulkar was awarded the Bharat Ratna, India's highest civilian honor.",
+                    "answer": true
+                },
+                {
+                    "question": "Ricky Ponting has never won the Allan Border Medal.",
+                    "answer": false
+                },
+                {
+                    "question": "Ellyse Perry has won the Belinda Clark Award multiple times.",
+                    "answer": true
+                },
+                {
+                    "question": "Jacques Kallis was named one of Wisden's Five Cricketers of the Year.",
+                    "answer": true
+                },
+                {
+                    "question": "Kapil Dev received a knighthood from the British government.",
+                    "answer": false
+                },
+                {
+                    "question": "Mithali Raj has received the Arjuna Award from India.",
+                    "answer": true
+                }
+            ],
+            "Controversies": [
+                {
+                    "question": "The Australian team was involved in a ball-tampering scandal in South Africa in 2018.",
+                    "answer": true
+                },
+                {
+                    "question": "Match-fixing scandals have involved players from multiple cricket-playing nations.",
+                    "answer": true
+                },
+                {
+                    "question": "The 'Monkeygate' controversy involved Harbhajan Singh and Andrew Symonds.",
+                    "answer": true
+                },
+                {
+                    "question": "Some cricketers have been banned for using performance-enhancing drugs.",
+                    "answer": true
+                },
+                {
+                    "question": "The IPL spot-fixing scandal led to the suspension of some franchises.",
+                    "answer": true
+                },
+                {
+                    "question": "Sledging has never been considered a controversial aspect of cricket.",
+                    "answer": false
+                },
+                {
+                    "question": "Some players have faced sanctions for breaching the ICC Code of Conduct.",
+                    "answer": true
+                },
+                {
+                    "question": "The 'Bodyline' series controversy occurred in the 1930s.",
+                    "answer": true
+                },
+                {
+                    "question": "No international cricketer has ever been banned for life due to corruption.",
+                    "answer": false
+                },
+                {
+                    "question": "Social media controversies have led to disciplinary action against some modern cricketers.",
+                    "answer": true
+                }
+            ],
+            "Current": [
+                {
+                    "question": "Virat Kohli is the current captain of the Indian cricket team in all formats.",
+                    "answer": false
+                },
+                {
+                    "question": "Pat Cummins is the current captain of the Australian Test team.",
+                    "answer": true
+                },
+                {
+                    "question": "Babar Azam is currently ranked as the number 1 ODI batsman.",
+                    "answer": true
+                },
+                {
+                    "question": "Jos Buttler is the current captain of England's white-ball teams.",
+                    "answer": true
+                },
+                {
+                    "question": "Kagiso Rabada is currently the number 1 ranked Test bowler.",
+                    "answer": true
+                },
+                {
+                    "question": "Steve Smith is still an active international cricketer.",
+                    "answer": true
+                },
+                {
+                    "question": "Rohit Sharma is the current captain of India's Test team.",
+                    "answer": true
+                },
+                {
+                    "question": "Kane Williamson is the current captain of New Zealand in all formats.",
+                    "answer": true
+                },
+                {
+                    "question": "Rashid Khan is currently playing international cricket for Afghanistan.",
+                    "answer": true
+                },
+                {
+                    "question": "Ben Stokes has retired from ODI cricket.",
+                    "answer": true
+                }
+            ],
+            "Legends": [
+                {
+                    "question": "Don Bradman is widely regarded as the greatest batsman in cricket history.",
+                    "answer": true
+                },
+                {
+                    "question": "Sir Garfield Sobers was the first cricketer to hit 6 sixes in an over.",
+                    "answer": true
+                },
+                {
+                    "question": "W.G. Grace played cricket in the 19th century.",
+                    "answer": true
+                },
+                {
+                    "question": "Viv Richards was known as the 'Master Blaster'.",
+                    "answer": true
+                },
+                {
+                    "question": "Imran Khan later became the Prime Minister of Pakistan.",
+                    "answer": true
+                },
+                {
+                    "question": "Kapil Dev was the first player to take 400 Test wickets and score 5000 Test runs.",
+                    "answer": true
+                },
+                {
+                    "question": "Ian Botham was known as 'Beefy' during his playing career.",
+                    "answer": true
+                },
+                {
+                    "question": "Sunil Gavaskar was the first batsman to score 10,000 Test runs.",
+                    "answer": true
+                },
+                {
+                    "question": "Shane Warne bowled both right-arm and left-arm spin bowling.",
+                    "answer": false
+                },
+                {
+                    "question": "Sachin Tendulkar was nicknamed the 'Little Master'.",
+                    "answer": true
+                }
+            ],
+            "Retired": [
+                {
+                    "question": "MS Dhoni announced his retirement from international cricket in 2020.",
+                    "answer": true
+                },
+                {
+                    "question": "Mahela Jayawardene retired from all forms of cricket before Kumar Sangakkara.",
+                    "answer": true
+                },
+                {
+                    "question": "Alastair Cook is England's leading run-scorer in Test cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "Misbah-ul-Haq retired as Pakistan's oldest Test captain.",
+                    "answer": true
+                },
+                {
+                    "question": "Shane Watson retired from international cricket but continued playing in T20 leagues.",
+                    "answer": true
+                },
+                {
+                    "question": "Brendon McCullum never played Test cricket for New Zealand.",
+                    "answer": false
+                },
+                {
+                    "question": "Yuvraj Singh was part of India's 2011 World Cup winning team.",
+                    "answer": true
+                },
+                {
+                    "question": "Graeme Smith retired as South Africa's most successful Test captain.",
+                    "answer": true
+                },
+                {
+                    "question": "Daniel Vettori was New Zealand's leading wicket-taker in Tests when he retired.",
+                    "answer": true
+                },
+                {
+                    "question": "Hashim Amla retired with the highest Test batting average among South African batsmen.",
+                    "answer": true
+                }
+            ],
+            "Statistics": [
+                {
+                    "question": "Sachin Tendulkar has scored more international runs than any other batsman.",
+                    "answer": true
+                },
+                {
+                    "question": "Muttiah Muralitharan has taken more international wickets than any other bowler.",
+                    "answer": true
+                },
+                {
+                    "question": "MS Dhoni has the most dismissals by a wicket-keeper in international cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "Jacques Kallis has scored more than 10,000 runs and taken more than 250 wickets in Tests.",
+                    "answer": true
+                },
+                {
+                    "question": "Virat Kohli has the highest average among batsmen with 5000+ ODI runs.",
+                    "answer": true
+                },
+                {
+                    "question": "Shane Warne has taken more Test wickets than any other leg-spinner.",
+                    "answer": true
+                },
+                {
+                    "question": "Ricky Ponting has scored more World Cup runs than any other batsman.",
+                    "answer": false
+                },
+                {
+                    "question": "Anil Kumble is the leading wicket-taker for India in Test cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "AB de Villiers has the fastest ODI century in terms of balls faced.",
+                    "answer": true
+                },
+                {
+                    "question": "Shahid Afridi has hit more sixes in international cricket than Chris Gayle.",
+                    "answer": false
+                }
+            ]
+        },
+        "Records": {
+            "Awards": [
+                {
+                    "question": "MS Dhoni has won more Player of the Match awards in ODIs than any other player.",
+                    "answer": true
+                },
+                {
+                    "question": "Sachin Tendulkar holds the record for most Player of the Match awards in Test cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "Virat Kohli has won the ICC Cricketer of the Year award more than once.",
+                    "answer": true
+                },
+                {
+                    "question": "Jacques Kallis has won more Player of the Match awards than any other all-rounder.",
+                    "answer": true
+                },
+                {
+                    "question": "Shane Warne never won the ICC Player of the Year award during his career.",
+                    "answer": false
+                },
+                {
+                    "question": "Mithali Raj holds the record for most Player of the Match awards in women's ODIs.",
+                    "answer": true
+                },
+                {
+                    "question": "Ricky Ponting has won more Player of the Series awards in Test cricket than any other captain.",
+                    "answer": true
+                },
+                {
+                    "question": "AB de Villiers has never won the ICC ODI Player of the Year award.",
+                    "answer": false
+                },
+                {
+                    "question": "Shahid Afridi holds the record for most Player of the Match awards in T20Is.",
+                    "answer": false
+                },
+                {
+                    "question": "Brian Lara won Player of the Match when he scored his record 400 not out.",
+                    "answer": true
+                }
+            ],
+            "Batting": [
+                {
+                    "question": "Brian Lara holds the record for the highest individual score in Test cricket with 400 not out.",
+                    "answer": true
+                },
+                {
+                    "question": "Sachin Tendulkar has scored more than 100 international centuries.",
+                    "answer": true
+                },
+                {
+                    "question": "The highest ODI individual score is over 300 runs.",
+                    "answer": false
+                },
+                {
+                    "question": "Don Bradman's Test batting average is exactly 99.94.",
+                    "answer": true
+                },
+                {
+                    "question": "Chris Gayle holds the record for most sixes in international cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "Rohit Sharma has scored 3 double centuries in ODI cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "The fastest Test century was scored in under 30 balls.",
+                    "answer": false
+                },
+                {
+                    "question": "Allan Border holds the record for most Test runs by an Australian.",
+                    "answer": false
+                },
+                {
+                    "question": "Virat Kohli has the most runs in T20 International cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "The record for most runs in a single over is 36 runs.",
+                    "answer": true
+                }
+            ],
+            "Bowling": [
+                {
+                    "question": "Muttiah Muralitharan holds the record for most Test wickets with 800 dismissals.",
+                    "answer": true
+                },
+                {
+                    "question": "The best bowling figures in Test cricket are 10/53 by Jim Laker.",
+                    "answer": true
+                },
+                {
+                    "question": "Wasim Akram has taken more ODI wickets than any other bowler.",
+                    "answer": false
+                },
+                {
+                    "question": "The fastest recorded cricket delivery was bowled at over 160 km/h.",
+                    "answer": true
+                },
+                {
+                    "question": "Anil Kumble is the only bowler to take all 10 wickets in a Test innings.",
+                    "answer": true
+                },
+                {
+                    "question": "Shane Warne took exactly 708 Test wickets in his career.",
+                    "answer": true
+                },
+                {
+                    "question": "The record for most wickets in a single World Cup is held by an Australian bowler.",
+                    "answer": true
+                },
+                {
+                    "question": "Rashid Khan holds the record for most T20I wickets.",
+                    "answer": true
+                },
+                {
+                    "question": "The best ODI bowling figures are 8/19 by Chaminda Vaas.",
+                    "answer": true
+                },
+                {
+                    "question": "No bowler has ever taken a hat-trick in all three formats of international cricket.",
+                    "answer": false
+                }
+            ],
+            "Partnership": [
+                {
+                    "question": "The highest Test partnership for any wicket is over 600 runs.",
+                    "answer": true
+                },
+                {
+                    "question": "Mahela Jayawardene and Kumar Sangakkara hold the record for highest ODI partnership.",
+                    "answer": true
+                },
+                {
+                    "question": "The highest opening partnership in Test cricket is held by an Indian pair.",
+                    "answer": false
+                },
+                {
+                    "question": "Chris Gayle and Marlon Samuels hold the record for highest T20I partnership.",
+                    "answer": false
+                },
+                {
+                    "question": "The record 10th wicket partnership in Tests is over 200 runs.",
+                    "answer": false
+                },
+                {
+                    "question": "Sourav Ganguly and Rahul Dravid have the highest 3rd wicket partnership in ODIs.",
+                    "answer": true
+                },
+                {
+                    "question": "The highest partnership in World Cup history is over 350 runs.",
+                    "answer": true
+                },
+                {
+                    "question": "Allan Border and Dean Jones hold an Australian partnership record.",
+                    "answer": true
+                },
+                {
+                    "question": "The highest partnership for the 6th wicket in Tests is held by a Pakistani pair.",
+                    "answer": true
+                },
+                {
+                    "question": "No partnership in international cricket has ever lasted more than a full day's play.",
+                    "answer": false
+                }
+            ],
+            "Team": [
+                {
+                    "question": "The highest Test team total is over 950 runs.",
+                    "answer": true
+                },
+                {
+                    "question": "England holds the record for highest ODI team total with 498/4.",
+                    "answer": true
+                },
+                {
+                    "question": "The lowest Test team total is 26 all out by New Zealand.",
+                    "answer": true
+                },
+                {
+                    "question": "Afghanistan holds the record for highest T20I team total.",
+                    "answer": true
+                },
+                {
+                    "question": "Australia has the longest winning streak in ODI cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "The West Indies have never been bowled out for under 50 in Test cricket.",
+                    "answer": false
+                },
+                {
+                    "question": "South Africa holds the record for the largest victory margin by runs in ODI cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "The shortest completed Test match lasted less than 2 days.",
+                    "answer": true
+                },
+                {
+                    "question": "India has scored 400+ runs in a Test innings more than any other team.",
+                    "answer": true
+                },
+                {
+                    "question": "No team has ever been bowled out twice in a single day of Test cricket.",
+                    "answer": false
+                }
+            ],
+            "Records": [
+                {
+                    "question": "The longest cricket match in history lasted 12 days.",
+                    "answer": true
+                },
+                {
+                    "question": "The highest individual score in any form of cricket is over 500 runs.",
+                    "answer": true
+                },
+                {
+                    "question": "The fastest century in any cricket match was scored in 35 balls.",
+                    "answer": true
+                },
+                {
+                    "question": "The most runs scored in a single over in professional cricket is 77.",
+                    "answer": true
+                },
+                {
+                    "question": "The largest cricket stadium in the world is located in India.",
+                    "answer": true
+                },
+                {
+                    "question": "The oldest cricket ground still in use is Lord's Cricket Ground.",
+                    "answer": false
+                },
+                {
+                    "question": "The highest altitude cricket match was played at over 2,000 meters above sea level.",
+                    "answer": true
+                },
+                {
+                    "question": "The most sixes hit in a single innings in professional cricket is over 20.",
+                    "answer": true
+                },
+                {
+                    "question": "The fastest bowling speed ever recorded in cricket exceeded 100 mph.",
+                    "answer": true
+                },
+                {
+                    "question": "The longest six ever hit in cricket traveled over 150 meters.",
+                    "answer": true
+                }
+            ]
+        },
+        "Rules": {
+            "Batting": [
+                {
+                    "question": "A batsman can be given out if they hit the ball twice intentionally.",
+                    "answer": true
+                },
+                {
+                    "question": "The maximum width of a cricket bat is 4.25 inches.",
+                    "answer": true
+                },
+                {
+                    "question": "A batsman can be stumped off a wide ball.",
+                    "answer": true
+                },
+                {
+                    "question": "Both batsmen can be run out on the same ball.",
+                    "answer": true
+                },
+                {
+                    "question": "A batsman cannot be given out LBW if they are hit outside the line of off stump.",
+                    "answer": false
+                },
+                {
+                    "question": "The batting team can declare their innings closed at any time.",
+                    "answer": true
+                },
+                {
+                    "question": "A new batsman has unlimited time to reach the crease after a wicket falls.",
+                    "answer": false
+                },
+                {
+                    "question": "A batsman can use a runner if they are injured during their innings.",
+                    "answer": false
+                },
+                {
+                    "question": "The batsman on strike must face the first ball of each over.",
+                    "answer": false
+                },
+                {
+                    "question": "A batsman can be given out 'obstructing the field' for deliberately blocking a fielder.",
+                    "answer": true
+                }
+            ],
+            "Bowling": [
+                {
+                    "question": "A bowler must bowl with a straight arm and cannot bend their elbow more than 15 degrees.",
+                    "answer": true
+                },
+                {
+                    "question": "In Test cricket, there is no limit to the number of overs a bowler can bowl in succession.",
+                    "answer": false
+                },
+                {
+                    "question": "A ball is called 'wide' if it passes outside the batsman's reach while they are in a normal stance.",
+                    "answer": true
+                },
+                {
+                    "question": "A bowler can bowl consecutive overs from both ends of the pitch.",
+                    "answer": false
+                },
+                {
+                    "question": "In ODI cricket, a bowler can bowl a maximum of 10 overs.",
+                    "answer": true
+                },
+                {
+                    "question": "A bouncer is limited to 2 per over in international cricket.",
+                    "answer": false
+                },
+                {
+                    "question": "The bowling crease is 8 feet 8 inches wide.",
+                    "answer": true
+                },
+                {
+                    "question": "A no-ball is called if the bowler's front foot completely crosses the popping crease.",
+                    "answer": true
+                },
+                {
+                    "question": "In T20 cricket, a bowler can bowl a maximum of 4 overs.",
+                    "answer": true
+                },
+                {
+                    "question": "A bowler must inform the umpire if they intend to bowl around the wicket.",
+                    "answer": true
+                }
+            ],
+            "DRS": [
+                {
+                    "question": "DRS stands for Decision Review System.",
+                    "answer": true
+                },
+                {
+                    "question": "Each team gets 2 reviews per innings in Test cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "Ball tracking technology is used to predict the path of the ball for LBW decisions.",
+                    "answer": true
+                },
+                {
+                    "question": "A team retains its review if the decision is overturned.",
+                    "answer": true
+                },
+                {
+                    "question": "Hot Spot technology detects edges by measuring heat signatures.",
+                    "answer": true
+                },
+                {
+                    "question": "DRS was first used in international cricket in 2008.",
+                    "answer": true
+                },
+                {
+                    "question": "The third umpire can overturn any decision without player referral.",
+                    "answer": false
+                },
+                {
+                    "question": "Snickometer technology detects sound to determine if the ball hit the bat.",
+                    "answer": true
+                },
+                {
+                    "question": "DRS is mandatory in all international cricket matches.",
+                    "answer": false
+                },
+                {
+                    "question": "The 'Umpire's Call' margin for LBW decisions is 50% of the ball hitting the stumps.",
+                    "answer": true
+                }
+            ],
+            "Fielding": [
+                {
+                    "question": "A maximum of 2 fielders are allowed behind square on the leg side.",
+                    "answer": true
+                },
+                {
+                    "question": "In ODI cricket, only 5 fielders are allowed outside the 30-yard circle during non-powerplay overs.",
+                    "answer": true
+                },
+                {
+                    "question": "A fielder can catch the ball after it crosses the boundary rope if they jump from inside the field.",
+                    "answer": false
+                },
+                {
+                    "question": "The wicket-keeper must remain behind the stumps until the ball is bowled.",
+                    "answer": false
+                },
+                {
+                    "question": "A fielder can run out a batsman if the ball deflects off their body onto the stumps.",
+                    "answer": true
+                },
+                {
+                    "question": "In T20 cricket, only 5 fielders are allowed outside the circle after the powerplay.",
+                    "answer": true
+                },
+                {
+                    "question": "A substitute fielder can take catches but cannot bowl or bat.",
+                    "answer": true
+                },
+                {
+                    "question": "Close fielders are required to wear helmets when fielding within 15 yards of the bat.",
+                    "answer": false
+                },
+                {
+                    "question": "A fielder can be positioned anywhere on the field except directly behind the batsman on strike.",
+                    "answer": false
+                },
+                {
+                    "question": "The captain can change field positions between each ball of an over.",
+                    "answer": true
+                }
+            ],
+            "Laws": [
+                {
+                    "question": "There are 42 Laws of Cricket as defined by the MCC.",
+                    "answer": true
+                },
+                {
+                    "question": "A cricket ball must weigh between 155.9 and 163 grams.",
+                    "answer": true
+                },
+                {
+                    "question": "The cricket pitch is exactly 22 yards long.",
+                    "answer": true
+                },
+                {
+                    "question": "A batsman can be given out 'Handled the Ball' under the current laws.",
+                    "answer": false
+                },
+                {
+                    "question": "The stumps must be 28 inches high.",
+                    "answer": true
+                },
+                {
+                    "question": "A wide ball cannot result in a wicket being taken.",
+                    "answer": false
+                },
+                {
+                    "question": "The boundary must be at least 65 yards from the center of the pitch.",
+                    "answer": true
+                },
+                {
+                    "question": "A no-ball results in one run being added to the batting team's total.",
+                    "answer": true
+                },
+                {
+                    "question": "The Laws of Cricket are updated every 10 years.",
+                    "answer": false
+                },
+                {
+                    "question": "A batsman can be run out while the ball is 'dead'.",
+                    "answer": false
+                }
+            ],
+            "Penalties": [
+                {
+                    "question": "A penalty of 5 runs is awarded for deliberate short running by the batting team.",
+                    "answer": true
+                },
+                {
+                    "question": "Ball tampering can result in a 5-run penalty to the bowling team.",
+                    "answer": true
+                },
+                {
+                    "question": "A fielder can be penalized for deliberately distracting the batsman.",
+                    "answer": true
+                },
+                {
+                    "question": "Time wasting by the bowling team results in 5 penalty runs.",
+                    "answer": true
+                },
+                {
+                    "question": "A player can be sent off the field for serious misconduct.",
+                    "answer": true
+                },
+                {
+                    "question": "Damaging the pitch deliberately results in a warning before any penalty.",
+                    "answer": false
+                },
+                {
+                    "question": "The umpire can award penalty runs without consulting the other umpire.",
+                    "answer": true
+                },
+                {
+                    "question": "A bowler can be suspended from bowling for the rest of the innings for dangerous bowling.",
+                    "answer": true
+                },
+                {
+                    "question": "Penalty runs are always awarded at the end of the innings.",
+                    "answer": false
+                },
+                {
+                    "question": "The maximum penalty runs that can be awarded for a single incident is 10.",
+                    "answer": false
+                }
+            ]
+        },
+        "World Cup": {
+            "Finals": [
+                {
+                    "question": "The 2019 World Cup final was decided by a Super Over.",
+                    "answer": true
+                },
+                {
+                    "question": "Australia has appeared in more World Cup finals than any other team.",
+                    "answer": true
+                },
+                {
+                    "question": "The first World Cup final was played at Lord's Cricket Ground.",
+                    "answer": true
+                },
+                {
+                    "question": "India has won the World Cup final on home soil.",
+                    "answer": true
+                },
+                {
+                    "question": "No World Cup final has ever been decided by the Duckworth-Lewis method.",
+                    "answer": false
+                },
+                {
+                    "question": "England had never won a World Cup final before 2019.",
+                    "answer": true
+                },
+                {
+                    "question": "The 1999 World Cup final ended in a tie.",
+                    "answer": false
+                },
+                {
+                    "question": "Sri Lanka won their only World Cup final in 1996.",
+                    "answer": true
+                },
+                {
+                    "question": "Pakistan has lost more World Cup finals than they have won.",
+                    "answer": false
+                },
+                {
+                    "question": "The West Indies appeared in the first three consecutive World Cup finals.",
+                    "answer": true
+                }
+            ],
+            "History": [
+                {
+                    "question": "The first Cricket World Cup was held in 1975 in England.",
+                    "answer": true
+                },
+                {
+                    "question": "The inaugural World Cup featured 8 teams.",
+                    "answer": true
+                },
+                {
+                    "question": "West Indies won the first two Cricket World Cups in 1975 and 1979.",
+                    "answer": true
+                },
+                {
+                    "question": "The World Cup was initially played with 60 overs per side.",
+                    "answer": true
+                },
+                {
+                    "question": "Kerry Packer's World Series Cricket influenced the creation of the World Cup.",
+                    "answer": false
+                },
+                {
+                    "question": "The tournament was originally called the Prudential Cup after its sponsor.",
+                    "answer": true
+                },
+                {
+                    "question": "Day-night matches were introduced in World Cup from the very first edition.",
+                    "answer": false
+                },
+                {
+                    "question": "The World Cup format has remained unchanged since its inception.",
+                    "answer": false
+                },
+                {
+                    "question": "The 1992 World Cup was the first to be held outside England.",
+                    "answer": false
+                },
+                {
+                    "question": "Colored clothing was first used in World Cup cricket in 1992.",
+                    "answer": true
+                }
+            ],
+            "Hosts": [
+                {
+                    "question": "England has hosted the Cricket World Cup more times than any other country.",
+                    "answer": true
+                },
+                {
+                    "question": "The 1987 World Cup was the first to be held in the Indian subcontinent.",
+                    "answer": true
+                },
+                {
+                    "question": "Australia and New Zealand co-hosted the 1992 World Cup.",
+                    "answer": false
+                },
+                {
+                    "question": "India has hosted the World Cup twice as a sole host.",
+                    "answer": false
+                },
+                {
+                    "question": "The 2003 World Cup was held in South Africa, Zimbabwe, and Kenya.",
+                    "answer": true
+                },
+                {
+                    "question": "Pakistan co-hosted the 2011 World Cup with India and Sri Lanka.",
+                    "answer": false
+                },
+                {
+                    "question": "The West Indies hosted the World Cup in 2007 across multiple Caribbean nations.",
+                    "answer": true
+                },
+                {
+                    "question": "Australia has never co-hosted a World Cup with another country.",
+                    "answer": false
+                },
+                {
+                    "question": "The 2019 World Cup was held solely in England and Wales.",
+                    "answer": true
+                },
+                {
+                    "question": "Bangladesh has hosted World Cup matches as a co-host.",
+                    "answer": true
+                }
+            ],
+            "Players": [
+                {
+                    "question": "Sachin Tendulkar has played in 6 different World Cups.",
+                    "answer": true
+                },
+                {
+                    "question": "Kapil Dev was the captain when India won their first World Cup in 1983.",
+                    "answer": true
+                },
+                {
+                    "question": "Clive Lloyd captained West Indies to victory in both 1975 and 1979 World Cups.",
+                    "answer": true
+                },
+                {
+                    "question": "AB de Villiers holds the record for fastest World Cup century.",
+                    "answer": true
+                },
+                {
+                    "question": "Wasim Akram was the leading wicket-taker in Pakistan's 1992 World Cup victory.",
+                    "answer": true
+                },
+                {
+                    "question": "Ricky Ponting was the captain for all 3 of Australia's consecutive World Cup wins.",
+                    "answer": false
+                },
+                {
+                    "question": "Martin Guptill holds the record for highest individual score in World Cup cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "Muttiah Muralitharan has taken more World Cup wickets than any other spinner.",
+                    "answer": true
+                },
+                {
+                    "question": "Viv Richards never won a World Cup as captain.",
+                    "answer": true
+                },
+                {
+                    "question": "Ben Stokes was the Player of the Final in England's 2019 World Cup victory.",
+                    "answer": true
+                }
+            ],
+            "Records": [
+                {
+                    "question": "Sachin Tendulkar holds the record for most runs scored in World Cup history.",
+                    "answer": true
+                },
+                {
+                    "question": "Glenn McGrath holds the record for most wickets taken in World Cup cricket.",
+                    "answer": true
+                },
+                {
+                    "question": "The highest individual score in World Cup history is over 200 runs.",
+                    "answer": true
+                },
+                {
+                    "question": "MS Dhoni holds the record for most dismissals by a wicket-keeper in World Cup history.",
+                    "answer": true
+                },
+                {
+                    "question": "Australia's 481/6 against Bangladesh in 2007 is the highest team total in World Cup history.",
+                    "answer": false
+                },
+                {
+                    "question": "No bowler has ever taken a hat-trick in a World Cup final.",
+                    "answer": true
+                },
+                {
+                    "question": "Ricky Ponting has captained his team in more World Cup matches than any other captain.",
+                    "answer": true
+                },
+                {
+                    "question": "The lowest completed innings total in World Cup history is below 50 runs.",
+                    "answer": false
+                },
+                {
+                    "question": "Javed Miandad played in more World Cups than any other player.",
+                    "answer": false
+                },
+                {
+                    "question": "The fastest century in World Cup history was scored in under 50 balls.",
+                    "answer": true
+                }
+            ],
+            "Teams": [
+                {
+                    "question": "Australia has won the Cricket World Cup 5 times.",
+                    "answer": true
+                },
+                {
+                    "question": "Only 8 different teams have ever won the Cricket World Cup.",
+                    "answer": false
+                },
+                {
+                    "question": "Bangladesh has never reached a World Cup semi-final.",
+                    "answer": false
+                },
+                {
+                    "question": "Zimbabwe has participated in every World Cup since 1983.",
+                    "answer": true
+                },
+                {
+                    "question": "Kenya reached the semi-finals of the 2003 World Cup.",
+                    "answer": true
+                },
+                {
+                    "question": "Netherlands has never won a match in World Cup cricket.",
+                    "answer": false
+                },
+                {
+                    "question": "South Africa has never won the Cricket World Cup.",
+                    "answer": true
+                },
+                {
+                    "question": "Afghanistan made their World Cup debut in 2015.",
+                    "answer": true
+                },
+                {
+                    "question": "All founding members of the ICC have won the World Cup at least once.",
+                    "answer": false
+                },
+                {
+                    "question": "Ireland has qualified for more than 3 World Cups.",
+                    "answer": true
+                }
+            ]
+        }
+    }
+}

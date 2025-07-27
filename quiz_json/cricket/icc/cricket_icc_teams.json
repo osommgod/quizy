@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "ICC",
+  "topic": "Teams",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Afghanistan became a Full Member of the ICC in 2017.",
+      "correct_answer": true
+    },
+    {
+      "id": 2,
+      "question": "Ireland and Scotland both have Test status in international cricket.",
+      "correct_answer": false
+    },
+    {
+      "id": 3,
+      "question": "Zimbabwe has never defeated Australia in a Test match.",
+      "correct_answer": false
+    },
+    {
+      "id": 4,
+      "question": "The West Indies cricket team represents 15 Caribbean nations and territories.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "question": "South Africa was banned from international cricket from 1970 to 1991 due to apartheid policies.",
+      "correct_answer": true
+    },
+    {
+      "id": 6,
+      "question": "Bangladesh was granted Test status before Zimbabwe.",
+      "correct_answer": false
+    },
+    {
+      "id": 7,
+      "question": "The Netherlands cricket team has participated in multiple ICC Cricket World Cups.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "question": "India and Pakistan have never faced each other in an ICC tournament final.",
+      "correct_answer": false
+    },
+    {
+      "id": 9,
+      "question": "New Zealand is the only Full Member nation that has never hosted a Cricket World Cup.",
+      "correct_answer": false
+    },
+    {
+      "id": 10,
+      "question": "All current Full Member nations have won at least one ICC tournament.",
+      "correct_answer": false
+    }
+  ]
+}

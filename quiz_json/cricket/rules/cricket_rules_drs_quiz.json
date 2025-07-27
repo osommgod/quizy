@@ -1,0 +1,57 @@
+{
+  "category": "Cricket",
+  "subcategory": "Rules",
+  "topic": "DRS",
+  "questions": [
+    {
+      "id": 1,
+      "question": "DRS stands for Decision Review System.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Each team gets 2 reviews per innings in Test cricket.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Ball tracking technology is used to predict the path of the ball for LBW decisions.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A team retains its review if the decision is overturned.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Hot Spot technology detects edges by measuring heat signatures.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "DRS was first used in international cricket in 2008.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The third umpire can overturn any decision without player referral.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Snickometer technology detects sound to determine if the ball hit the bat.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "DRS is mandatory in all international cricket matches.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The 'Umpire's Call' margin for LBW decisions is 50% of the ball hitting the stumps.",
+      "answer": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Cricket": {
+    "IPL": ["Teams", "Seasons", "Records", "Players", "Controversies", "Finals"],
+    "ICC": ["Tournaments", "Teams", "Formats", "History", "Rankings", "Awards"],
+    "World Cup": ["History", "Hosts", "Finals", "Records", "Teams", "Players"],
+    "Records": ["Batting", "Bowling", "Partnerships", "Team", "World Records", "Awards"],
+    "Players": ["Legends", "Current", "Statistics", "Awards", "Controversies", "Retired"],
+    "Rules": ["Laws", "DRS", "Penalties", "Fielding", "Batting", "Bowling"]
+  },
+  "Crypto": {
+    "Bitcoin": ["History", "Technology", "Transactions", "Mining", "Wallets", "Future"],
+    "Ethereum": ["Smart Contracts", "History", "Technology", "DApps", "Tokens", "Future"],
+    "Stablecoins": ["Types", "Usage", "Regulation", "Backing", "Stability", "Risks"],
+    "Blockchain": ["Basics", "Security", "Consensus", "Types", "Use Cases", "Future"],
+    "Wallets": ["Types", "Security", "Usage", "Hardware", "Software", "Recovery"],
+    "NFTs": ["Concepts", "Marketplaces", "Art", "Gaming", "Legal", "Future"]
+  },
+  "World": {
+    "History": ["Ancient", "Medieval", "Modern", "Wars", "Revolutions", "Discoveries"],
+    "Geography": ["Landforms", "Climate", "Oceans", "Mountains", "Rivers", "Deserts"],
+    "Current Affairs": ["2023 Events", "Politics", "Environment", "Health", "Economy", "Technology"],
+    "Capitals": ["Asia", "Europe", "Africa", "Americas", "Oceania", "Islands"],
+    "Leaders": ["Heads of State", "Historical Leaders", "Activists", "Business", "Science", "Religious"],
+    "Organizations": ["UN", "NGOs", "Trade", "Military", "Cultural", "Scientific"]
+  },
+  "Technology": {
+    "Programming": ["Languages", "Paradigms", "Tools", "Web", "Mobile", "Databases"],
+    "Gadgets": ["Smartphones", "Laptops", "Wearables", "Cameras", "Audio", "Gaming"],
+    "AI": ["Machine Learning", "NLP", "Computer Vision", "Robotics", "Ethics", "Future"],
+    "Cybersecurity": ["Threats", "Encryption", "Networks", "Privacy", "Hacking", "Protection"],
+    "Internet": ["Web", "Protocols", "Services", "Cloud", "IoT", "Future"],
+    "Tech Giants": ["Apple", "Google", "Microsoft", "Amazon", "Meta", "Tesla"]
+  },
+  "Entertainment": {
+    "Bollywood": ["Actors", "Movies", "History", "Songs", "Awards", "Controversies"],
+    "Hollywood": ["Actors", "Movies", "History", "Songs", "Awards", "Controversies"],
+    "Web Series": ["Platforms", "Genres", "Popular", "International", "Awards", "Production"],
+    "Music": ["Genres", "Artists", "Instruments", "History", "Awards", "Streaming"],
+    "Awards": ["Oscars", "Grammys", "Emmys", "Cannes", "BAFTA", "National"],
+    "Celebrities": ["Actors", "Musicians", "Directors", "Sports", "Influencers", "Controversies"]
+  }
+}
