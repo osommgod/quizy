@@ -1,19 +1,21 @@
 <?php
 header('Content-Type: application/json');
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // MySQL config
-$host = "localhost";
-$dbname = "moodzy_quizy_database";
-$user = "root";
-$password = "";
-$valid_api_key = "9b5e35a1-4d20-427d-97f3-83c17499a7c2";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // Get POST data
 $deviceid = $_POST['deviceid'] ?? '';
 $api_key = $_POST['api_key'] ?? '';
 
-function jsonResponse($status, $message, $extra = []) {
+function jsonResponse($status, $message, $extra = [])
+{
     echo json_encode(array_merge([
         "status" => $status,
         "message" => $message
@@ -22,13 +24,15 @@ function jsonResponse($status, $message, $extra = []) {
 }
 
 // Get user IP
-function getUserIP() {
+function getUserIP()
+{
     return $_SERVER['HTTP_X_FORWARDED_FOR'] ?? $_SERVER['REMOTE_ADDR'] ?? 'UNKNOWN';
 }
 $user_ip = getUserIP();
 
 // Log headers (optional)
-function logHeaders($ip) {
+function logHeaders($ip)
+{
     $headers = getallheaders();
     $logData = "---- IP: $ip @ " . date('Y-m-d H:i:s') . " ----\n";
     foreach ($headers as $key => $value) {
@@ -88,13 +92,16 @@ $signup_point = 0;
 $signup_bonus = 0;
 $config_result = $conn->query("SELECT config_key, config_value FROM app_config WHERE config_key IN ('signup_point', 'signup_bonuspoints')");
 while ($row = $config_result->fetch_assoc()) {
-    if ($row['config_key'] === 'signup_point') $signup_point = floatval($row['config_value']);
-    if ($row['config_key'] === 'signup_bonuspoints') $signup_bonus = floatval($row['config_value']);
+    if ($row['config_key'] === 'signup_point')
+        $signup_point = floatval($row['config_value']);
+    if ($row['config_key'] === 'signup_bonuspoints')
+        $signup_bonus = floatval($row['config_value']);
 }
 $config_result->close();
 
 // Generate unique username
-function generateUniqueUsername($conn, $maxRetries = 5) {
+function generateUniqueUsername($conn, $maxRetries = 5)
+{
     for ($i = 0; $i < $maxRetries; $i++) {
         $username = "User" . rand(100000, 999999);
         $check = $conn->prepare("SELECT user_name FROM user_data WHERE user_name = ?");

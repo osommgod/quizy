@@ -1,15 +1,25 @@
 <?php
 header('Content-Type: application/json');
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // DB Config
-$host = "localhost";
-$dbname = "moodzy_quizy_database";
-$user = "root";
-$password = "";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // Get POST data
 $deviceid = $_POST['deviceid'] ?? '';
+$api_key = $_POST['api_key'] ?? '';
+
+// VALIDATION
+if ($api_key !== $valid_api_key) {
+    http_response_code(401);
+    echo json_encode(["status" => "error", "message" => "Invalid API Key"]);
+    exit;
+}
 
 if (empty($deviceid)) {
     http_response_code(400);
@@ -36,15 +46,15 @@ while ($row = $result->fetch_assoc()) {
     $dateTime = new DateTime($row['date_time']);
 
     $transactions[] = [
-        "transaction_id"   => $row['transaction_id'],
-        "redeem_id"        => $row['redeem_id'],
-        "redeem_method"    => $row['redeem_method'],
-        "sim_circle"       => $row['sim_circle'],
-        "date"             => $dateTime->format('Y-m-d'),
-        "time"             => $dateTime->format('H:i:s'),
-        "amount"           => number_format((float)$row['amount'], 2),
-        "closing_balance"  => number_format((float)$row['closing_balance'], 2),
-        "status"           => $row['status']
+        "transaction_id" => $row['transaction_id'],
+        "redeem_id" => $row['redeem_id'],
+        "redeem_method" => $row['redeem_method'],
+        "sim_circle" => $row['sim_circle'],
+        "date" => $dateTime->format('Y-m-d'),
+        "time" => $dateTime->format('H:i:s'),
+        "amount" => number_format((float) $row['amount'], 2),
+        "closing_balance" => number_format((float) $row['closing_balance'], 2),
+        "status" => $row['status']
     ];
 }
 

@@ -1,15 +1,27 @@
 <?php
 header('Content-Type: application/json');
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // DB CONFIG
-$host     = "localhost";
-$dbname   = "moodzy_quizy_database";
-$user     = "root";
-$password = "";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // INPUT
 $deviceid = $_POST['deviceid'] ?? '';
+$api_key = $_POST['api_key'] ?? '';
+
+// VALIDATION
+if ($api_key !== $valid_api_key) {
+    http_response_code(401);
+    echo json_encode(["status" => "error", "message" => "Invalid API Key"]);
+    exit;
+}
+
+
 if (empty($deviceid)) {
     http_response_code(400);
     echo json_encode(["status" => "error", "message" => "Missing device ID"]);
@@ -17,13 +29,15 @@ if (empty($deviceid)) {
 }
 
 // FORMATTERS
-function formatCredits($amount) {
+function formatCredits($amount)
+{
     return ($amount >= 1000)
         ? number_format($amount / 1000, 2) . "K"
         : number_format($amount, 2);
 }
 
-function formatReadable($value) {
+function formatReadable($value)
+{
     return number_format($value, 2, '.', ',');
 }
 
@@ -52,14 +66,14 @@ if (!$row = $result->fetch_assoc()) {
 }
 
 // Raw values
-$user_points       = (float)$row['user_points'];
-$user_bonuspoints  = (float)$row['user_bonuspoints'];
-$user_credits      = (int)$row['user_credits'];
-$quiz_credits      = (int)$row['quiz_credit'];
-$contest_credits   = (int)$row['contest_credit'];
+$user_points = (float) $row['user_points'];
+$user_bonuspoints = (float) $row['user_bonuspoints'];
+$user_credits = (int) $row['user_credits'];
+$quiz_credits = (int) $row['quiz_credit'];
+$contest_credits = (int) $row['contest_credit'];
 
 // Totals
-$total_points  = $user_points + $user_bonuspoints;
+$total_points = $user_points + $user_bonuspoints;
 $total_credits = $user_credits + $quiz_credits + $contest_credits;
 
 // CONFIG
@@ -73,7 +87,7 @@ $config_query = "
 if ($cfgResult = $conn->query($config_query)) {
     while ($cfg = $cfgResult->fetch_assoc()) {
         if ($cfg['config_key'] === 'min_withdraw_amount') {
-            $min_withdraw = (int)$cfg['config_value'];
+            $min_withdraw = (int) $cfg['config_value'];
         } elseif ($cfg['config_key'] === 'withdrawal_enabled') {
             $withdrawal_enabled = strtolower($cfg['config_value']) === 'true';
         }
@@ -86,28 +100,28 @@ echo json_encode([
     "status" => "success",
     "message" => "Wallet data fetched",
     "min_withdraw_amount" => $min_withdraw,
-    "withdrawal_enabled"  => $withdrawal_enabled,
+    "withdrawal_enabled" => $withdrawal_enabled,
 
     // Raw values
-    "user_points"      => $user_points,
+    "user_points" => $user_points,
     "user_bonuspoints" => $user_bonuspoints,
-    "total_points"     => $total_points,
+    "total_points" => $total_points,
 
     // Formatted values
-    "formatted_user_points"      => formatReadable($user_points),
+    "formatted_user_points" => formatReadable($user_points),
     "formatted_user_bonuspoints" => formatReadable($user_bonuspoints),
-    "formatted_total_points"     => formatReadable($total_points),
+    "formatted_total_points" => formatReadable($total_points),
 
     "credits" => [
-        "user_credits"    => $user_credits,
-        "quiz_credits"    => $quiz_credits,
+        "user_credits" => $user_credits,
+        "quiz_credits" => $quiz_credits,
         "contest_credits" => $contest_credits,
-        "total_credits"   => $total_credits,
+        "total_credits" => $total_credits,
 
-        "formatted_user_credits"    => formatCredits($user_credits),
-        "formatted_quiz_credits"    => formatCredits($quiz_credits),
+        "formatted_user_credits" => formatCredits($user_credits),
+        "formatted_quiz_credits" => formatCredits($quiz_credits),
         "formatted_contest_credits" => formatCredits($contest_credits),
-        "formatted_total_credits"   => formatCredits($total_credits)
+        "formatted_total_credits" => formatCredits($total_credits)
     ]
 ]);
 

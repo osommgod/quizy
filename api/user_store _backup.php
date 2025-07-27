@@ -1,12 +1,14 @@
 <?php
 // Set timezone
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // MySQL config
-$host = "localhost";
-$dbname = "moodzy_quizy_database";
-$user = "root";
-$password = "";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // API Key
 $valid_api_key = "9b5e35a1-4d20-427d-97f3-83c17499a7c2";
@@ -16,7 +18,8 @@ $deviceid = $_POST['deviceid'] ?? '';
 $api_key = $_POST['api_key'] ?? '';
 
 // Detect IP (proxy-safe)
-function getUserIP() {
+function getUserIP()
+{
     if (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
         $ipList = explode(',', $_SERVER['HTTP_X_FORWARDED_FOR']);
         return trim($ipList[0]);
@@ -26,7 +29,8 @@ function getUserIP() {
 $user_ip = getUserIP();
 
 // Log full headers
-function logHeaders($ip) {
+function logHeaders($ip)
+{
     $headers = getallheaders();
     $logData = "---- Request from IP: $ip @ " . date('Y-m-d H:i:s') . " ----\n";
     foreach ($headers as $key => $value) {
@@ -111,7 +115,8 @@ if ($config_result) {
 }
 
 // Generate a unique username
-function generateUniqueUserName($conn) {
+function generateUniqueUserName($conn)
+{
     do {
         $user_name = "User" . rand(100000, 999999);
         $check = $conn->prepare("SELECT user_name FROM user_data WHERE user_name = ?");

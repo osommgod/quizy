@@ -1,12 +1,14 @@
 <?php
 header("Content-Type: application/json");
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // DB config
-$host = "localhost";
-$dbname = "moodzy_quizy_database";
-$user = "root";
-$password = "";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // Get POST data
 $deviceid = $_POST['deviceid'] ?? '';

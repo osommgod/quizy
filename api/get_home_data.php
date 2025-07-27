@@ -1,15 +1,27 @@
 <?php
 header("Content-Type: application/json");
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // DB config
-$host = "localhost";
-$dbname = "moodzy_quizy_database";
-$user = "root";
-$password = "";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // Get device ID from POST
 $deviceid = $_POST['deviceid'] ?? '';
+$api_key = $_POST['api_key'] ?? '';
+
+
+// VALIDATION
+if ($api_key !== $valid_api_key) {
+    http_response_code(401);
+    echo json_encode(["status" => "error", "message" => "Invalid API Key"]);
+    exit;
+}
+
 if (empty($deviceid)) {
     http_response_code(400);
     echo json_encode(["error" => "Device ID required"]);
@@ -40,7 +52,7 @@ $user_data = $user_result->fetch_assoc();
 $user_stmt->close();
 
 // Step 2: Fetch user rank based on RTS
-$rts = (int)$user_data['user_rts'];
+$rts = (int) $user_data['user_rts'];
 
 $rank_stmt = $conn->prepare("SELECT COUNT(*) + 1 AS user_rank FROM user_data WHERE user_rts > ?");
 $rank_stmt->bind_param("i", $rts);
@@ -79,8 +91,8 @@ $config_stmt->close();
 // Final output
 $response = [
     "user_name" => $user_data['user_name'],
-    "followers" => (int)$user_data['user_followers'],
-    "following" => (int)$user_data['user_following'],
+    "followers" => (int) $user_data['user_followers'],
+    "following" => (int) $user_data['user_following'],
     "rts" => $rts,
     "rank" => $user_rank,
     "links" => $links,

@@ -1,13 +1,14 @@
 <?php
 header('Content-Type: application/json');
 date_default_timezone_set("Asia/Kolkata");
+require_once 'config.php';
 
 // DB CONFIG
-$host     = "localhost";
-$dbname   = "moodzy_quizy_database";
-$user     = "root";
-$password = "";
-$valid_api_key = "9b5e35a1-4d20-427d-97f3-83c17499a7c2";
+$host = DB_HOST;
+$dbname = DB_NAME;
+$user = DB_USER;
+$password = DB_PASS;
+$valid_api_key = VALID_API_KEY;
 
 // INPUT
 $api_key = $_POST['api_key'] ?? '';
@@ -33,7 +34,7 @@ if ($conn->connect_error) {
 }
 
 // FETCH VALUES
-$quiz_reward    = 0;
+$quiz_reward = 0;
 $contest_reward = 0;
 $contest_interval = 0;
 
@@ -59,9 +60,9 @@ if ($result) {
 echo json_encode([
     "status" => "success",
     "message" => "Reward values fetched successfully",
-    "formatted_quiz_reward"    => number_format($quiz_reward, 2),
+    "formatted_quiz_reward" => number_format($quiz_reward, 2),
     "formatted_contest_reward" => number_format($contest_reward, 2),
-    "quiz_reward"    => $quiz_reward,
+    "quiz_reward" => $quiz_reward,
     "contest_reward" => $contest_reward,
     "contest_interval" => $contest_interval
 ]);
