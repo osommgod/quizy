@@ -4,6 +4,12 @@
     Deny from all
 </FilesMatch>
 
+# 🔐 Prevent direct access to db.sql (or any .sql file)
+<FilesMatch "\.sql$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
 # 🔁 Enable URL Rewriting (for clean routes)
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
