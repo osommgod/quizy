@@ -39,7 +39,7 @@ $quiz_reward = 0;
 $contest_reward = 0;
 $contest_interval = 0;
 
-$sql = "SELECT config_key, config_value FROM app_config WHERE config_key IN ('quiz_reward', 'contest_reward','contest_interval','admob_adid','unity_adid','ad_type')";
+$sql = "SELECT config_key, config_value FROM app_config WHERE config_key IN ('quiz_reward', 'contest_reward','contest_interval','admob_adid','unity_adid','ad_type','min_rts')";
 $result = $conn->query($sql);
 
 if ($result) {
