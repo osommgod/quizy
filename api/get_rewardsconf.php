@@ -12,6 +12,7 @@ $valid_api_key = VALID_API_KEY;
 
 // INPUT
 $api_key = $_POST['api_key'] ?? '';
+$device_id = $_POST['device_id'] ?? '';
 
 if ($api_key !== $valid_api_key) {
     http_response_code(401);
@@ -37,6 +38,20 @@ if ($conn->connect_error) {
 $quiz_reward = 0;
 $contest_reward = 0;
 $contest_interval = 0;
+$user_rts = 0;
+
+if (!empty($device_id)) {
+    $stmt = $conn->prepare("SELECT user_rts FROM user_data WHERE device_id = ?");
+    $stmt->bind_param("s", $device_id);
+    if ($stmt->execute()) {
+        $result = $stmt->get_result();
+        if ($row = $result->fetch_assoc()) {
+            $user_rts = intval($row['user_rts']);
+        }
+        $result->close();
+    }
+    $stmt->close();
+}
 
 $sql = "SELECT config_key, config_value FROM app_config WHERE config_key IN ('quiz_reward', 'contest_reward','contest_interval','admob_adid','unity_adid','ad_type')";
 $result = $conn->query($sql);
@@ -80,7 +95,8 @@ echo json_encode([
     "ad_type" => $ad_type,
     "admob_adid" => $admob_adid,
     "unity_adid" => $unity_adid,
-    "min_rts" => $min_rts
+    "min_rts" => $min_rts,
+    "user_rts" => $user_rts
 ]);
 
 $conn->close();
