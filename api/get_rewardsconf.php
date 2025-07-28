@@ -12,7 +12,7 @@ $valid_api_key = VALID_API_KEY;
 
 // INPUT
 $api_key = $_POST['api_key'] ?? '';
-$device_id = $_POST['device_id'] ?? '';
+
 
 if ($api_key !== $valid_api_key) {
     http_response_code(401);
@@ -38,53 +38,32 @@ if ($conn->connect_error) {
 $quiz_reward = 0;
 $contest_reward = 0;
 $contest_interval = 0;
-$user_rts = 0;
-$min_rts = 0;
-$admob_adid = "";
-$unity_adid = "";
-$ad_type = "";
 
-if (!empty($device_id)) {
-    $stmt = $conn->prepare("SELECT user_rts FROM user_data WHERE device_id = ?");
-    $stmt->bind_param("s", $device_id);
-    if ($stmt->execute()) {
-        $result = $stmt->get_result();
-        if ($row = $result->fetch_assoc()) {
-            $user_rts = intval($row['user_rts']);
-        }
-        $result->close();
-    }
-    $stmt->close();
-}
-
-$sql = "SELECT config_key, config_value FROM app_config 
-        WHERE config_key IN ('quiz_reward', 'contest_reward', 'contest_interval', 'min_rts', 'admob_adid', 'unity_adid', 'ad_type')";
+$sql = "SELECT config_key, config_value FROM app_config WHERE config_key IN ('quiz_reward', 'contest_reward','contest_interval','admob_adid','unity_adid','ad_type')";
 $result = $conn->query($sql);
 
 if ($result) {
     while ($row = $result->fetch_assoc()) {
-        switch ($row['config_key']) {
-            case 'quiz_reward':
-                $quiz_reward = floatval($row['config_value']);
-                break;
-            case 'contest_reward':
-                $contest_reward = floatval($row['config_value']);
-                break;
-            case 'contest_interval':
-                $contest_interval = intval($row['config_value']);
-                break;
-            case 'min_rts':
-                $min_rts = intval($row['config_value']);
-                break;
-            case 'admob_adid':
-                $admob_adid = $row['config_value'];
-                break;
-            case 'unity_adid':
-                $unity_adid = $row['config_value'];
-                break;
-            case 'ad_type':
-                $ad_type = $row['config_value'];
-                break;
+        if ($row['config_key'] === 'quiz_reward') {
+            $quiz_reward = floatval($row['config_value']);
+        }
+        if ($row['config_key'] === 'contest_reward') {
+            $contest_reward = floatval($row['config_value']);
+        }
+        if ($row['config_key'] === 'contest_interval') {
+            $contest_interval = intval($row['config_value']);
+        }
+        if ($row['config_key'] === 'min_rts') {
+            $min_rts = intval($row['config_value']);
+        }
+        if ($row['config_key'] === 'admob_adid') {
+            $admob_adid = $row['config_value'];  // keep as string
+        }
+        if ($row['config_key'] === 'unity_adid') {
+            $unity_adid = $row['config_value'];  // keep as string
+        }
+        if ($row['config_key'] === 'ad_type') {
+            $ad_type = $row['config_value'];     // keep as string
         }
     }
     $result->close();
@@ -102,8 +81,7 @@ echo json_encode([
     "ad_type" => $ad_type,
     "admob_adid" => $admob_adid,
     "unity_adid" => $unity_adid,
-    "min_rts" => $min_rts,
-    "user_rts" => $user_rts
+    "min_rts" => $min_rts
 ]);
 
 $conn->close();
