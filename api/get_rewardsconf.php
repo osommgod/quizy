@@ -52,6 +52,9 @@ if ($result) {
         if ($row['config_key'] === 'contest_interval') {
             $contest_interval = intval($row['config_value']);
         }
+        if ($row['config_key'] === 'min_rts') {
+            $min_rts = intval($row['config_value']);
+        }
         if ($row['config_key'] === 'admob_adid') {
             $admob_adid = $row['config_value'];  // keep as string
         }
@@ -76,7 +79,8 @@ echo json_encode([
     "contest_interval" => $contest_interval,
     "ad_type" => $ad_type,
     "admob_adid" => $admob_adid,
-    "unity_adid" => $unity_adid
+    "unity_adid" => $unity_adid,
+    "min_rts" => $min_rts
 ]);
 
 $conn->close();
