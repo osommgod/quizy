@@ -82,14 +82,17 @@ $withdrawal_enabled = false;
 
 $config_query = "
     SELECT config_key, config_value FROM app_config
-    WHERE config_key IN ('min_withdraw_amount', 'withdrawal_enabled')
+    WHERE config_key IN ('min_withdraw_amount', 'withdrawal_enabled', 'support_email')
 ";
+
 if ($cfgResult = $conn->query($config_query)) {
     while ($cfg = $cfgResult->fetch_assoc()) {
         if ($cfg['config_key'] === 'min_withdraw_amount') {
             $min_withdraw = (int) $cfg['config_value'];
         } elseif ($cfg['config_key'] === 'withdrawal_enabled') {
             $withdrawal_enabled = strtolower($cfg['config_value']) === 'true';
+        } elseif ($cfg['config_key'] === 'support_email') {
+            $support_email = $cfg['config_value'];  // no conversion needed
         }
     }
     $cfgResult->close();
@@ -101,6 +104,7 @@ echo json_encode([
     "message" => "Wallet data fetched",
     "min_withdraw_amount" => $min_withdraw,
     "withdrawal_enabled" => $withdrawal_enabled,
+    "support_email" => $support_email,
 
     // Raw values
     "user_points" => $user_points,
