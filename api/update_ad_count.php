@@ -21,7 +21,7 @@ try {
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     // ✅ Check if device ID exists in user_data table
-    $checkUser = $pdo->prepare("SELECT id FROM user_data WHERE user_deviceid = :dev");
+    $checkUser = $pdo->prepare("SELECT user_deviceid FROM user_data WHERE user_deviceid = :dev");
     $checkUser->execute([':dev' => $deviceid]);
     if ($checkUser->rowCount() === 0) {
         throw new Exception("Device ID not registered.");
