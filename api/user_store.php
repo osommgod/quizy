@@ -194,7 +194,7 @@ for ($try = 0; $try < 3; $try++) {
     $conn->begin_transaction();
     try {
         $ins = $conn->prepare("INSERT INTO user_data
-            (user_deviceid,user_name,user_points,user_bonuspoints,user_ip)
+            (user_deviceid,user_name,user_credits,user_bonuspoints,user_ip)
              VALUES(?,?,?,?,?)");
         $ins->bind_param("ssdds", $deviceid, $uname, $signup_point, $signup_bonus, $user_ip);
         $ins->execute();
