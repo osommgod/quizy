@@ -39,7 +39,7 @@ $quiz_reward = 0;
 $contest_reward = 0;
 $contest_interval = 0;
 
-$sql = "SELECT config_key, config_value FROM app_config WHERE config_key IN ('quiz_reward', 'contest_reward','contest_interval','admob_adid','unity_adid','ad_type','min_rts')";
+$sql = "SELECT config_key, config_value FROM app_config WHERE config_key IN ('quiz_reward', 'contest_reward','contest_interval','admob_adid','unity_adid','ad_type','min_rts','admob_ad_cap')";
 $result = $conn->query($sql);
 
 if ($result) {
@@ -55,6 +55,9 @@ if ($result) {
         }
         if ($row['config_key'] === 'min_rts') {
             $min_rts = intval($row['config_value']);
+        }
+        if ($row['config_key'] === 'admob_ad_cap') {
+            $admob_ad_cap = intval($row['config_value']);
         }
         if ($row['config_key'] === 'admob_adid') {
             $admob_adid = $row['config_value'];  // keep as string
@@ -81,7 +84,8 @@ echo json_encode([
     "ad_type" => $ad_type,
     "admob_adid" => $admob_adid,
     "unity_adid" => $unity_adid,
-    "min_rts" => $min_rts
+    "min_rts" => $min_rts,
+    "admob_ad_cap" => $admob_ad_cap
 ]);
 
 $conn->close();
