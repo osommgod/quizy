@@ -20,7 +20,14 @@ try {
     $pdo = new PDO("mysql:host=" . DB_HOST . ";dbname=" . DB_NAME, DB_USER, DB_PASS);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-    // Check if row exists
+    // ✅ Check if device ID exists in user_data table
+    $checkUser = $pdo->prepare("SELECT id FROM user_data WHERE user_deviceid = :dev");
+    $checkUser->execute([':dev' => $deviceid]);
+    if ($checkUser->rowCount() === 0) {
+        throw new Exception("Device ID not registered.");
+    }
+
+    // Check if row already exists in ad_watch_counts
     $stmt = $pdo->prepare("SELECT * FROM ad_watch_counts WHERE user_deviceid = :dev AND date = :dt");
     $stmt->execute([':dev' => $deviceid, ':dt' => $date]);
     $row = $stmt->fetch(PDO::FETCH_ASSOC);
